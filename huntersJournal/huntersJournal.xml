@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<journal>
-    <!-- Might change territory. domTerritory? Alternate method of grouping? mobility, terrain... -->
-    <territory title="Forgotten-Crossroads">
-        <entry name="Crawlid" listOrder="1">
-            <!-- handling misc. mobility? -->
-            <data health="8" mobility="ground"/>
-            <!-- do I need "1" and "2"? -->
-            <desc1>Timid scavenger that crawls through the caverns looking for food.</desc1>
-            <desc2 reqKills="0">Dull and pathetic. Hardly worth killing.</desc2>
-            
-        </entry>
-        <entry name="Vengefly" listOrder="2">
-            <data health="8" mobility="air"/>
-            <desc1>Flying predator that pursues its prey relentlessly.</desc1>
-            <desc2 reqKills="45">This fierce little hunter will bravely chase down creatures many
-                times its size. Admirable! It is weak though, and I have devoured hundreds of them
-                with little effort or care.</desc2>
-            <dreamNail>
+<?xml-model href="huntersJournal.rnc" type="application/relax-ng-compact-syntax"?>
+<hollowKnight>
+    <huntersJournal>
+        <!-- Might change territory. domTerritory? Alternate method of grouping? mobility, terrain... -->
+        <primResidence title="Forgotten-Crossroads">
+            <entry name="Crawlid" listOrder="1">
+                <!-- handling misc. mobility? -->
+                <data health="8" mobility="ground"/>
+                <!-- do I need "1" and "2"? -->
+                <desc1>Timid scavenger that crawls through the caverns looking for food.</desc1>
+                <desc2 reqKills="0">Dull and pathetic. Hardly worth killing.</desc2>
+            </entry>
+            <entry name="Vengefly" listOrder="2">
+                <data health="8" mobility="air"/>
+                <desc1>Flying predator that pursues its prey relentlessly.</desc1>
+                <desc2 reqKills="45">This fierce little hunter will bravely chase down creatures
+                    many times its size. Admirable! It is weak though, and I have devoured hundreds
+                    of them with little effort or care.</desc2>
+                <!--<misc>
+                <dreamNail>
                 <sp>...Light...Danger...</sp>
                 <sp>...Safe...Dark...</sp>
                 <sp>...Hungry...Hungry...</sp>
@@ -26,19 +27,36 @@
                 <sp>...Kill...Hurt...</sp>
                 <sp>...Away. Away...</sp>
                 <sp>...Pain...</sp>
-            </dreamNail>
-        </entry>
-    </territory>
-    <territory title="Greenpath">
-        <entry>f</entry>
-    </territory>
-    <territory title="Fog-Canyon">
-        <entry>f</entry>
-    </territory>
-    <territory title="Fungal-Wastes">
-        <entry>f</entry>
-    </territory>
-    <territory title="City-of-Tears">
-        <entry>f</entry>
-    </territory>
-</journal>
+            </dreamNail></misc>-->
+            </entry>
+            <entry name="Vengefly-King" listOrder="3">
+                <data health="55" mobility="air"/>
+                <desc1>Patriarch of a vengefly colony. Swoops at intruders and cries <lb/> out 
+                    for reinforcements if threatened.</desc1>
+                <desc2 reqKills="2">A filthy creature that is happy to chew on any old thing it finds <lb/>
+                    discarded on the cavern floor. When it notices a threat it will <lb/>
+                    annoyingly scream and shriek, so kill it swiftly.</desc2>
+            </entry>
+        </primResidence>
+    <!--<primResidence title="Greenpath">
+            <entry name="" listOrder="">
+                <data/>
+            </entry>
+        </primResidence>
+        <primResidence title="Fog-Canyon">
+            <entry name="" listOrder="">
+                <data/>
+            </entry>
+        </primResidence>
+        <primResidence title="Fungal-Wastes">
+            <entry name="" listOrder="">
+                <data/>
+            </entry>
+        </primResidence>
+        <primResidence title="City-of-Tears">
+            <entry name="" listOrder="">
+                <data/>
+            </entry>
+        </primResidence>-->
+    </huntersJournal>
+</hollowKnight>
