@@ -3,16 +3,18 @@ hollowKnight = element hollowKnight {huntersJournal}
 huntersJournal = element huntersJournal {primResidence*}
 primResidence = ## The territory in which the contained creatures/entries are most commonly found.
     element primResidence {title, entry+}
-title = ## Must name an in-game map section.
+title = ## Must name an in-game map section. 
     attribute title 
     {"Forgotten-Crossroads" | "Greenpath" | "Fog-Canyon" 
     | "Fungal-Wastes" | "City-of-Tears" | "Royal-Waterways" 
     | "Crystal-Peak" | "Deepnest" | "Ancient-Basin" | "Kingdom's-Edge" 
     | "The-Hive" | "Queen's-Gardens" | "Colosseum-of-Fools" 
     | "White-Palace" | "null"} # Null and/or specialItem
-entry = element entry {name, listOrder, data, desc1, desc2} #misc
+entry = element entry {name, type, listOrder, data, desc1, desc2} #misc
     name = ## The name of any creature/item defined by the journal 
         attribute name {text}
+    type = ## What type of enemy is it?
+        attribute type {}
     listOrder = ## Corresponds to the in-game's list order of journal entries.
         attribute listOrder {xsd:integer}
     data = element data {health, mobility, empty}
