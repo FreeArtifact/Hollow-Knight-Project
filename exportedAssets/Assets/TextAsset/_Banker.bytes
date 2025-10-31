@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL"></entry>
+<entry name="BANKER_FAREWELL"></entry>
+<entry name="BANKER_DREAM_SPA"></entry>
+<entry name="BANKER_DEPOSIT"></entry>
+<entry name="BANKER_BALANCE_ZERO"></entry>
+<entry name="BANKER_GREET"></entry>
+<entry name="BANKER_REMEET"></entry>
+<entry name="BANKER_ACCT_OPEN"></entry>
+<entry name="BANKER_SPA_GREET"></entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN"></entry>
+<entry name="BANKER_MEET"></entry>
+<entry name="BANKER_SPA_MEET"></entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT"></entry>
+<entry name="BANKER_ACCT_DECLINE"></entry>
+<entry name="BANKER_ACCT_NOTENOUGH"></entry>
+<entry name="BANKER_WITHDRAW"></entry>
+<entry name="BANKER_SPA_REPEAT"></entry>
+<entry name="BANKER_DREAM"></entry>
+</entries>

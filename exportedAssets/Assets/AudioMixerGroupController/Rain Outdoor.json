@@ -1,0 +1,40 @@
+{
+	"m_AudioMixer": { "m_Collection": "resources-1.assets", "m_PathID": 3788 },
+	"m_BypassEffects": false,
+	"m_Children": [],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "resources-1.assets", "m_PathID": 12 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 2969869109,
+		"m_Data_1_": 1206374259,
+		"m_Data_2_": 540668320,
+		"m_Data_3_": 2313139798
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "Rain Outdoor",
+	"m_Pitch": {
+		"m_Data_0_": 1692679237,
+		"m_Data_1_": 1200849792,
+		"m_Data_2_": 1862399625,
+		"m_Data_3_": 1158739358
+	},
+	"m_PrefabAsset": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 100821441,
+		"m_Data_1_": 1125065729,
+		"m_Data_2_": 1550633647,
+		"m_Data_3_": 3370062732
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 1982663108,
+		"m_Data_1_": 1257147061,
+		"m_Data_2_": 724382874,
+		"m_Data_3_": 2824195055
+	}
+}

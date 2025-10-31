@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">你又拿骨钉来打磨了？放在地上吧，等会儿再来拿。要是那时候你还活着的话。</entry>
+<entry name="NAILSMITH_DECLINE">你不感兴趣？那请自便。</entry>
+<entry name="ART_DREAM">……独自辛苦工作那么久之后……现在感觉好多了……</entry>
+<entry name="MODELLING">我们正在为王国的骑士打造全套行头。在他们的时代里，我几乎从没注意过他们，但席奥深深记得他们每一个人。&lt;page&gt;这份工作真让人神清气爽，跟打骨钉那种粗糙的活计完全不一样。我好喜欢那复杂的细节。</entry>
+<entry name="NAILSMITH_OFFER">只要你愿意，我就可以改造你的骨钉，让钉刃更加致命。</entry>
+<entry name="NAILSMITH_COMPLETE_3">好了。改造完成。&lt;page&gt;我把骨钉改成了螺旋形，这可不容易啊。你会发现它现在厉害多了。&lt;page&gt;去吧，冲出一条血路。</entry>
+<entry name="NAILSMITH_GREET">嗯？哦，你回来了。</entry>
+<entry name="NAILSMITH_COMPLETE_1">好了。改造完成。&lt;page&gt;我已经磨利了骨钉。你会发现它现在厉害多了。&lt;page&gt;出去用敌人练个手。</entry>
+<entry name="PAINTED_REPEAT">在圣巢的黑暗之中，谁曾料到我能邂逅这样正能量满满的虫。</entry>
+<entry name="NAILSMITH_COMPLETE_4">好了。改造完成。&lt;page&gt;你的骨钉比以前厉害多了，堪称登峰造极。&lt;page&gt;我只在你的武器里见过这种潜力。我终于见识到了纯粹骨钉的威严。&lt;page&gt;没想到这一刻来临得如此之快……&lt;page&gt;……我……我得出去透透气……</entry>
+<entry name="NAILSMITH_COMPLETE_2">好了。改造完成。&lt;page&gt;我给骨钉加了一道沟槽。砍切能力应该又进了一步。你会发现它现在厉害多了。&lt;page&gt;出去用敌人练个手。</entry>
+<entry name="NAILSMITH_REGREET">嗯？你还没走啊。还有什么事吗？</entry>
+<entry name="NAILSMITH_ACCEPT">如你所愿。我会开始工作。</entry>
+<entry name="NAILSMITH_KILL_REPEAT">不要犹豫。求求你。砍倒我吧！我想一尝这骨钉考究的利刃。</entry>
+<entry name="ART_MEET">嗯？你好啊旅行者。在这广阔的世界里，我们居然还能重逢，多奇怪啊。&lt;page&gt;我得谢谢你在我请你了结我的时候没有下手。我一开始怒急攻心，但后来又花了些时间好好想了想，结果很快就发现你的决定相当睿智。&lt;page&gt;世界上有意义的东西不光是金属和武器。我开始探索世界，很快就来到了这里。&lt;page&gt;席奥精通很多技艺，而且答应都教给我。我觉得这里的日子会很开心。</entry>
+<entry name="NAILSMITH_SIGN">未使用</entry>
+<entry name="MODELLING_REPEAT">太棒了。真不敢相信我的双手能做出这么精巧的东西。</entry>
+<entry name="NAILSMITH_NEED_ORE1">给我一块苍白矿石，我就能把它们铸进你的骨钉，让它变厉害些。</entry>
+<entry name="NAILSMITH_NEED_ORE3">给我三块苍白矿石，我就能把它们铸进你的骨钉，让它变厉害些。</entry>
+<entry name="NAILSMITH_NEED_ORE2">给我两块苍白矿石，我就能把它们铸进你的骨钉，让它变厉害些。</entry>
+<entry name="NAILSMITH_KILL">既然打造出了纯粹的骨钉，那我一生的工作也走到了尽头。现在我只希望能亲身真正体会一番骨钉的锐利！&lt;page&gt;请你了结我吧。在生命的最后一刻，我想一尝这骨钉考究的利刃。&lt;page&gt;在这漫长的艰辛劳作之后……这难道不是我应得的吗？</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">吉欧不够？有吉欧了再来吧。</entry>
+<entry name="NAILSMITH_MEET_3">想找打钉匠？就在你的面前。我不喜欢聊天，不过你要是想整修骨钉的话，那就找对人了。&lt;page&gt;你的骨钉状态很糟糕。很明显不是我打造的。不过只要有手艺，还肯下功夫，那就没什么东西修不了的，就算是这破旧的钉刃也一样。</entry>
+<entry name="NAILSMITH_OFFER_ORE">我看你有几块苍白矿石。这是一种珍稀的纯净金属。给我矿石和吉欧当报酬，我就帮你把骨钉改造得更强悍。</entry>
+<entry name="PAINTED">恐怕我不能细说。我要是挪动太多，那席奥的大作就要毁了，我不想看他发脾气。&lt;page&gt;虽然他看起来威风，但内心其实很柔弱。</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">我完成了一生的杰作……人生还有什么意义……？</entry>
+<entry name="NAILSMITH_MEET_2">嗯？&lt;page&gt;啊，我看错人了。</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">……要锻造完美的骨钉……</entry>
+</entries>

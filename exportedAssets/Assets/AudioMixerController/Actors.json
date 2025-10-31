@@ -1,0 +1,223 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 407843859,
+					"m_Data_1_": 1221057710,
+					"m_Data_2_": 223880351,
+					"m_Data_3_": 2581686187
+				},
+				{
+					"m_Data_0_": 3826129492,
+					"m_Data_1_": 1133351033,
+					"m_Data_2_": 1220313224,
+					"m_Data_3_": 1011497582
+				},
+				{
+					"m_Data_0_": 2505376883,
+					"m_Data_1_": 1137940411,
+					"m_Data_2_": 1858790828,
+					"m_Data_3_": 1090778354
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [
+		{
+			"m_Guid": {
+				"m_Data_0_": 1260099128,
+				"m_Data_1_": 1129986895,
+				"m_Data_2_": 374678180,
+				"m_Data_3_": 929055828
+			},
+			"m_Name": "kuLjkrJ"
+		}
+	],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "resources-1.assets", "m_PathID": 3794 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [
+			{
+				"m_Data_0_": 1719975849,
+				"m_Data_1_": 1181973157,
+				"m_Data_2_": 1001486247,
+				"m_Data_3_": 465624837
+			},
+			{
+				"m_Data_0_": 1232093472,
+				"m_Data_1_": 1317626564,
+				"m_Data_2_": 2610646432,
+				"m_Data_3_": 3001636772
+			}
+		],
+		"m_Effects": [
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 2,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 4294967295,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 2,
+				"m_ParameterIndices": [
+					9,
+					10,
+					11,
+					12
+				],
+				"m_PrevEffectIndex": 0,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 7,
+				"m_WetMixLevelIndex": 4294967295
+			}
+		],
+		"m_ExposedParameterIndices": [
+			3
+		],
+		"m_ExposedParameterNames": [
+			1227386375
+		],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 407843859,
+				"m_Data_1_": 1221057710,
+				"m_Data_2_": 223880351,
+				"m_Data_3_": 2581686187
+			},
+			{
+				"m_Data_0_": 3826129492,
+				"m_Data_1_": 1133351033,
+				"m_Data_2_": 1220313224,
+				"m_Data_3_": 1011497582
+			},
+			{
+				"m_Data_0_": 2505376883,
+				"m_Data_1_": 1137940411,
+				"m_Data_2_": 1858790828,
+				"m_Data_3_": 1090778354
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAEFjdG9ycwBBY3RvcnMgRmxhbmdlAAA=",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_SendIndex": 2,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 4,
+				"m_SendIndex": 5,
+				"m_Solo": false,
+				"m_VolumeIndex": 3
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 1,
+				"m_PitchIndex": 7,
+				"m_SendIndex": 8,
+				"m_Solo": false,
+				"m_VolumeIndex": 6
+			}
+		],
+		"m_NumSideChainBuffers": 0,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 2459579119,
+				"m_Data_1_": 1253189786,
+				"m_Data_2_": 1104425138,
+				"m_Data_3_": 2494318915
+			},
+			{
+				"m_Data_0_": 388537620,
+				"m_Data_1_": 1114426908,
+				"m_Data_2_": 3739766711,
+				"m_Data_3_": 852303473
+			}
+		],
+		"m_SnapshotNameBuffer": "T24AT2ZmAAA=",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 2620525930,
+				"m_TransitionIndices": [
+					0,
+					3
+				],
+				"m_TransitionTypes": [
+					3,
+					3
+				],
+				"m_Values": [
+					0,
+					1,
+					-80,
+					0,
+					1,
+					-80,
+					0,
+					1,
+					-80,
+					0.559,
+					0.527,
+					1,
+					1.03
+				]
+			},
+			{
+				"m_NameHash": 334568355,
+				"m_TransitionIndices": [
+					0,
+					3
+				],
+				"m_TransitionTypes": [
+					2,
+					3
+				],
+				"m_Values": [
+					-80,
+					1,
+					-80,
+					0,
+					1,
+					-80,
+					0,
+					1,
+					-80,
+					0.45,
+					0.55,
+					1,
+					0.1
+				]
+			}
+		]
+	},
+	"m_Name": "Actors",
+	"m_OutputGroup": { "m_Collection": "resources-1.assets", "m_PathID": 3824 },
+	"m_PrefabAsset": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3831 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3855 }
+	],
+	"m_StartSnapshot": { "m_Collection": "resources-1.assets", "m_PathID": 3831 },
+	"m_SuspendThreshold": -80,
+	"m_TargetSnapshot": { "m_Collection": "resources-1.assets", "m_PathID": 3831 },
+	"m_UpdateMode": 0
+}

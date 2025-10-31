@@ -1,0 +1,40 @@
+{
+	"m_AudioMixer": { "m_Collection": "resources-1.assets", "m_PathID": 3788 },
+	"m_BypassEffects": false,
+	"m_Children": [],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "resources-1.assets", "m_PathID": 10 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 3078119984,
+		"m_Data_1_": 1085295164,
+		"m_Data_2_": 4273576862,
+		"m_Data_3_": 2593773758
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "Cave Noises",
+	"m_Pitch": {
+		"m_Data_0_": 973559000,
+		"m_Data_1_": 1286996034,
+		"m_Data_2_": 1072809387,
+		"m_Data_3_": 3048503412
+	},
+	"m_PrefabAsset": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 3014583023,
+		"m_Data_1_": 1202143691,
+		"m_Data_2_": 3528569219,
+		"m_Data_3_": 1723989401
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 2915304784,
+		"m_Data_1_": 1323307847,
+		"m_Data_2_": 2655312519,
+		"m_Data_3_": 1197605568
+	}
+}

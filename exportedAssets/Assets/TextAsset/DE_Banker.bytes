@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">Hast du es dir anders überlegt? Nun, du kannst jederzeit wiederkommen.</entry>
+<entry name="BANKER_FAREWELL">Auf Wiedersehen. Pass auf dich auf.</entry>
+<entry name="BANKER_DREAM_SPA">... Oohh nein ... Lass mich in Ruhe, du grusliges kleines Ding ...</entry>
+<entry name="BANKER_DEPOSIT">Gut gemacht, Liebes! Ich werde dein Geo sicher aufbewahren. </entry>
+<entry name="BANKER_BALANCE_ZERO">I-ich habe nichts übrig ... Ich ähhh, ich nehme an, ähhh, dass du dich jetzt wieder auf den Weg machst?&lt;page&gt;J-j-ja, ich denke, das wäre wohl am b-besten ...</entry>
+<entry name="BANKER_GREET">Hallo Liebes! Lust, Bankgeschäfte zu machen?</entry>
+<entry name="BANKER_REMEET">Hast du dich nun entschieden, ein Konto zu eröffnen? Sein Geo zu verlieren ist schrecklich.&lt;page&gt;Du wirst dich in dieser großen, gefährlichen Welt dort draußen sehr viel besser fühlen, wenn du weißt, dass es bei mir sicher sind.</entry>
+<entry name="BANKER_ACCT_OPEN">Gute Entscheidung. Wenn du das nächste Mal einer grausigen Bestie zum Opfer fällst, wirst du dankbar sein, dass dein Geo sicher ist, in meinem Panz... äh ... Tresor.&lt;page&gt;Nun, lass uns Bankgeschäfte machen.</entry>
+<entry name="BANKER_SPA_GREET">Wa...? Oh ... du ... du bist wieder da. Als du gegangen bist, hatte ich gedacht, dass ich dich ... äh ... nie wiedersehen würde.&lt;page&gt;Es ist nur ... ähh ... die Angelegenheit mit deinem Geo. Du solltest wissen, dass mich das auch sehr belastet hat. So groß war die Belastung sogar, dass ich das Bankgeschäft endgültig aufgegeben habe.</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Noch immer kein Interesse? Du bist viel zu zögerlich. Triff gewagte Entscheidungen und bleib dabei, auf diese Art wird sich dein Geo verfielfachen.</entry>
+<entry name="BANKER_MEET">Hallo, Liebes. Ich wollte eigentlich gerade zumachen und gehen, doch dann bist du aufgetaucht. Wenn du Interesse hast, biete ich dir gerne meine Dienste als Bänkerin an.&lt;page&gt;Dein Geo zu verlieren ist schrecklich, und das passiert viel häufiger, wenn du es immer mit dir herumträgst.&lt;page&gt;Mein Tresor ist da deutlich sicherer. Während meiner gesamten Karriere als Bänkerin habe ich nicht ein Geo verloren!&lt;page&gt;Hast du schon einmal darüber nachgedacht, ein Konto zu eröffnen?</entry>
+<entry name="BANKER_SPA_MEET">Oh ... Ä-äh, da bist du ja wieder, L-Liebes. Was für ein Zufall, dass wir uns h-hier über den Weg laufen.&lt;page&gt;Willst du etwa dein Geo zurück? Nuuun, weißt du, es ist so, ähhhhh. Es ist wirklich traurig, denn ... Es ist weg. Komplett ausgegeben.&lt;page&gt;Eine Bank zu betreiben, kann teuer sein, also musste ich eine recht große Bearbeitungsgebühr von deinem Konto abheben.&lt;page&gt;Was natürlich absolut rechtmäßig ist. Ein normaler Bestandteil des ganzen Bankgeschäfts ... ha ha ha ... ha.&lt;page&gt;Aber ... ähh ... vielen lieben Dank für deinen Besuch, am besten machst du dich nun wieder auf den Weg. Wenn du mir ein wenig Ruhe zugestehst, bin ich hier in Kürze fertig. Dann hast du die heiße Quelle ganz für dich.</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">... Ich denke, ich werde mich hier e-e-einfach noch ein bisschen ausruhen. Ja, das ist sicher am besten.</entry>
+<entry name="BANKER_ACCT_DECLINE">Ich verstehe. Es ist schwierig, sich von seinen schwer erkämpften Geo zu trennen. Du wirst mich hier finden, falls du es dir anders überlegst.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Oh, warte mal. Du hast leider nicht genug Geo, um ein Konto zu eröffnen. Sobald du 100 Geo hast, komm gleich zurück und wir eröffnen dein Konto.</entry>
+<entry name="BANKER_WITHDRAW">Vielen Dank für die Abhebung. Gib nicht alles auf einmal aus!</entry>
+<entry name="BANKER_SPA_REPEAT">... Nimm es mir nicht übel, ja?</entry>
+<entry name="BANKER_DREAM">... Wann kann ich wieder zu dieser reizenden heißen Quelle zurückkehren? ... Das Wasser dort lockert die Spannung in meinem Panzer so sehr ...</entry>
+</entries>

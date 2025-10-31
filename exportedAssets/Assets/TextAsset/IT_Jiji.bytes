@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">Il cibo che adoro... è morbido e rotondo, e si rompe deliziosamente in bocca. L’odore che emana, poi... mi viene l’acquolina al solo pensiero. È davvero il cibo più squisito al mondo.</entry>
+<entry name="GREET">Ah, salve di nuovo. Come ti vanno le cose? Sei venuto a trovarmi a causa dei tuoi rimpianti? Lascia che ti guardi dentro per un momento...</entry>
+<entry name="MEET1">Benvenuto, piccolo intruso. Ho dormito qui dentro per un bel po’ di tempo... Forse troppo?&lt;page&gt;Ah. Sì. Sì. Beh, ora tu mi hai svegliato. Ma non fa niente. Potrei perfino esserti d’aiuto.</entry>
+<entry name="RITUAL_BEGIN">Mmmmh... Quanto mi gusterò questo bocconcino! Ora, come promesso, daremo inizio al rituale.</entry>
+<entry name="WATERWAYS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera circondata da tubature e acqua corrente. Ma non può essere lavata via...</entry>
+<entry name="SHADE_OFFER">Io posso restituirti i tuoi rimpianti, se condividi con me il tuo delizioso cibo.</entry>
+<entry name="RITUAL_REPEAT">Addio. Penserò a te mentre mi godrò il mio pasto.</entry>
+<entry name="SHAMAN_TEMPLE">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera su un poggio ancestrale... un luogo di strani culti.</entry>
+<entry name="CLIFFS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera in alto sopra di noi, circondata da venti che ululano.</entry>
+<entry name="MEET2">Mi chiamo Jiji, e se sei arrivato qui da me dev’essere perché hai bisogno del mio aiuto.&lt;page&gt;Vedi, talvolta ci lasciamo dietro dei rimpianti in questo mondo, come delle macchie nere.&lt;page&gt;Se non affrontiamo questi rimpianti, la speranza inizierà ad abbandonarci.&lt;page&gt;E tu hai dei rimpianti, piccoletto? Lascia che ti guardi dentro per un momento...</entry>
+<entry name="DREAM">Devo aver dormito molto a lungo. Questa terra è diventata così cupa, piena delle macchie nere dei rimpianti.&lt;page&gt;Anche l’aria è più tenebrosa. Se mi riaddormentassi, forse l’oscurità scivolerebbe qui dentro e m’inghiottirebbe?</entry>
+<entry name="ABYSS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. Solo vagamente, però... una macchia nera nelle profondità del mondo, circondata dall’oscurità. Quasi parte di essa...</entry>
+<entry name="CROSSROADS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera proprio sotto di noi, perduta tra i tortuosi sentieri del reame.</entry>
+<entry name="SHADE_OFFER_INTRO">Io posso restituirti i tuoi rimpianti, così li potrai affrontare. È quello che vuoi, vero?&lt;page&gt;Ah, ma che fame che mi è venuta. Forse vuoi condividere con me un po’ del tuo cibo? A dormire tanto a lungo, viene un certo appetito.</entry>
+<entry name="HIVE">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera circondata da una luce dorata, in un alveare lontano da qui.</entry>
+<entry name="DECLINE">Oh? Beh, se non desideri riconciliarti con i tuoi rimpianti, non posso aiutarti.</entry>
+<entry name="RITUAL_COMPLETED">Ah, sembra che tu abbia fatto pace con i tuoi rimpianti in una maniera piuttosto nuova e, oserei dire, brutale. Una gioia per gli occhi. Addio, per ora. Penserò a te mentre mi godrò il mio pasto.</entry>
+<entry name="WASTES">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera annidata tra strani funghi e laghi gorgoglianti.</entry>
+<entry name="NOSHADE">Ah, da quel che vedo non hai rimpianti. Sei molto fortunato. Non hai bisogno dei miei servizi.</entry>
+<entry name="CITY">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera nel cuore della capitale del reame. La pioggia non può lavarla via.</entry>
+<entry name="SHADE_CHARM">Ooohhhh. I miei maestri sarebbero colpiti...&lt;page&gt;È raro che qualcuno riesca a fare i conti con i propri rimpianti, ma tu ce l’hai fatta.&lt;page&gt;Che oscurità bisogna attraversare per compiere una simile impresa?</entry>
+<entry name="QUEENS_STATION">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera tutta sola nella Stazione della Regina.</entry>
+<entry name="MINES">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera quasi nascosta dal bagliore degli scintillanti cristalli che la circondano.</entry>
+<entry name="KINGS_PASS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera qui vicino, proprio all’ingresso di questo reame.</entry>
+<entry name="COLOSSEUM">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera circondata da guerrieri e folli.</entry>
+<entry name="NOSHADE_REPEAT">Sembri essere libero da rimpianti. Non hai bisogno dei miei servizi. Addio.</entry>
+<entry name="NO_EGGS">Mmmh, non hai del cibo con te. O almeno, niente che mi interessi. Non posso fare niente a stomaco vuoto, quindi ritorna quando avrai qualcosa di veramente gustoso... qualcosa di nutriente.</entry>
+<entry name="LOST_SHADE">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera nascosta nell’oscurità sotto di noi.</entry>
+<entry name="DEEPNEST">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera, a malapena visibile, nei tunnel di un nido molto al di sotto di questo reame.</entry>
+<entry name="GREEN_PATH">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera in una verde terra lussureggiante.</entry>
+<entry name="OUTSKIRTS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera molto lontano, ai confini del mondo.</entry>
+<entry name="RESTING_GROUNDS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera in un santo luogo di riposo.</entry>
+<entry name="FOG_CANYON">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera persa nelle nebbie di una strana terra.</entry>
+<entry name="ROYAL_GARDENS">Sì, posso vedere i rimpianti che ti sei lasciato dietro. C’è una macchia nera che deturpa la bellezza di un giardino.</entry>
+</entries>

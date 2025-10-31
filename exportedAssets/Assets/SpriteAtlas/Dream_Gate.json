@@ -1,0 +1,168 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_EditorData": {
+		"m_BindAsDefault": true,
+		"m_CachedData": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+		"m_IsAtlasV2": false,
+		"m_Packables": [
+			{ "m_Collection": "resources-1.assets", "m_PathID": 3386 },
+			{ "m_Collection": "resources-1.assets", "m_PathID": 2718 },
+			{ "m_Collection": "resources-1.assets", "m_PathID": 1999 }
+		],
+		"m_PackingSettings": {
+			"m_AllowAlphaSplitting": false,
+			"m_BlockOffset": 1,
+			"m_EnableRotation": true,
+			"m_EnableTightPacking": true,
+			"m_Padding": 2
+		},
+		"m_PlatformSettings": [],
+		"m_SecondaryTextureSettings": {},
+		"m_TextureSettings": {
+			"m_AnisoLevel": 1,
+			"m_CompressionQuality": 50,
+			"m_CrunchedCompression": false,
+			"m_FilterMode": 1,
+			"m_GenerateMipMaps": false,
+			"m_MaxTextureSize": 2048,
+			"m_Readable": false,
+			"m_SRGB": true,
+			"m_TextureCompression": 0
+		},
+		"m_TotalSpriteSurfaceArea": 0,
+		"m_VariantMultiplier": 1
+	},
+	"m_HideFlags": 0,
+	"m_IsVariant": false,
+	"m_MasterAtlas": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Name": "Dream_Gate",
+	"m_PackedSpriteNamesToIndex": [
+		"Dream_Gate_Other_pieces_0001_2",
+		"Dream_Gate_Object_0002_1",
+		"Dream_Gate_Other_pieces_0000_1"
+	],
+	"m_PackedSprites": [
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3386 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 2718 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 1999 }
+	],
+	"m_PrefabAsset": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_RenderDataMap": [
+		{
+			"Key": {
+				"Key": {
+					"m_Data_0_": 1035963261,
+					"m_Data_1_": 1212431206,
+					"m_Data_2_": 1841833371,
+					"m_Data_3_": 3867287429
+				},
+				"Value": 21300000
+			},
+			"Value": {
+				"m_AlphaTexture": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+				"m_AtlasRectOffset": {
+					"m_X": 0,
+					"m_Y": 183
+				},
+				"m_DownscaleMultiplier": 1,
+				"m_SecondaryTextures": [],
+				"m_SettingsRaw": 65,
+				"m_Texture": { "m_Collection": "resources-1.assets", "m_PathID": 198 },
+				"m_TextureRect": {
+					"m_Height": 72.95935,
+					"m_Width": 109,
+					"m_X": 0,
+					"m_Y": 183.04065
+				},
+				"m_TextureRectOffset": {
+					"m_X": 0,
+					"m_Y": 0.040647328
+				},
+				"m_UvTransform": {
+					"m_W": 219.5,
+					"m_X": 64,
+					"m_Y": 54.5,
+					"m_Z": 64
+				}
+			}
+		},
+		{
+			"Key": {
+				"Key": {
+					"m_Data_0_": 1655979491,
+					"m_Data_1_": 1075324027,
+					"m_Data_2_": 1465549201,
+					"m_Data_3_": 3833432630
+				},
+				"Value": 21300000
+			},
+			"Value": {
+				"m_AlphaTexture": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+				"m_AtlasRectOffset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_DownscaleMultiplier": 1,
+				"m_SecondaryTextures": [],
+				"m_SettingsRaw": 65,
+				"m_Texture": { "m_Collection": "resources-1.assets", "m_PathID": 198 },
+				"m_TextureRect": {
+					"m_Height": 179,
+					"m_Width": 149,
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_TextureRectOffset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_UvTransform": {
+					"m_W": 89.5,
+					"m_X": 64,
+					"m_Y": 74.5,
+					"m_Z": 64
+				}
+			}
+		},
+		{
+			"Key": {
+				"Key": {
+					"m_Data_0_": 1484007624,
+					"m_Data_1_": 1192573322,
+					"m_Data_2_": 853835142,
+					"m_Data_3_": 2955171012
+				},
+				"Value": 21300000
+			},
+			"Value": {
+				"m_AlphaTexture": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+				"m_AtlasRectOffset": {
+					"m_X": 137,
+					"m_Y": 100
+				},
+				"m_DownscaleMultiplier": 1,
+				"m_SecondaryTextures": [],
+				"m_SettingsRaw": 65,
+				"m_Texture": { "m_Collection": "resources-1.assets", "m_PathID": 198 },
+				"m_TextureRect": {
+					"m_Height": 95.92388,
+					"m_Width": 84,
+					"m_X": 137,
+					"m_Y": 100
+				},
+				"m_TextureRectOffset": {
+					"m_X": 0,
+					"m_Y": 0
+				},
+				"m_UvTransform": {
+					"m_W": 150.5,
+					"m_X": 64,
+					"m_Y": 179,
+					"m_Z": 64
+				}
+			}
+		}
+	],
+	"m_Tag": "Dream_Gate"
+}

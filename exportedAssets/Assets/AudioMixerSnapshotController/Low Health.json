@@ -1,0 +1,107 @@
+{
+	"m_AudioMixer": { "m_Collection": "resources-1.assets", "m_PathID": 3790 },
+	"m_CorrespondingSourceObject": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_FloatValues": [
+		{
+			"Key": {
+				"m_Data_0_": 512090993,
+				"m_Data_1_": 1319019489,
+				"m_Data_2_": 4124977550,
+				"m_Data_3_": 472963411
+			},
+			"Value": 0
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1185082544,
+				"m_Data_1_": 1196008303,
+				"m_Data_2_": 1325296773,
+				"m_Data_3_": 2291071961
+			},
+			"Value": 1
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1148531001,
+				"m_Data_1_": 1129753187,
+				"m_Data_2_": 1959699869,
+				"m_Data_3_": 2056484633
+			},
+			"Value": -80
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1555758983,
+				"m_Data_1_": 1260493786,
+				"m_Data_2_": 3792156060,
+				"m_Data_3_": 2534092914
+			},
+			"Value": 0
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2250620410,
+				"m_Data_1_": 1213441500,
+				"m_Data_2_": 1534952621,
+				"m_Data_3_": 2287610560
+			},
+			"Value": 1
+		},
+		{
+			"Key": {
+				"m_Data_0_": 816472988,
+				"m_Data_1_": 1199463591,
+				"m_Data_2_": 3807680409,
+				"m_Data_3_": 287404640
+			},
+			"Value": -80
+		},
+		{
+			"Key": {
+				"m_Data_0_": 2932969103,
+				"m_Data_1_": 1332237528,
+				"m_Data_2_": 2118994607,
+				"m_Data_3_": 483795490
+			},
+			"Value": 0.409
+		},
+		{
+			"Key": {
+				"m_Data_0_": 3242948999,
+				"m_Data_1_": 1321869507,
+				"m_Data_2_": 688931478,
+				"m_Data_3_": 74826513
+			},
+			"Value": 0.71300006
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1456315595,
+				"m_Data_1_": 1180809332,
+				"m_Data_2_": 3524962202,
+				"m_Data_3_": 3485934452
+			},
+			"Value": 1
+		},
+		{
+			"Key": {
+				"m_Data_0_": 1483465176,
+				"m_Data_1_": 1079009121,
+				"m_Data_2_": 2858658973,
+				"m_Data_3_": 49060325
+			},
+			"Value": 0.7
+		}
+	],
+	"m_HideFlags": 0,
+	"m_Name": "Low Health",
+	"m_PrefabAsset": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_SnapshotID": {
+		"m_Data_0_": 759374252,
+		"m_Data_1_": 1142456454,
+		"m_Data_2_": 1448186801,
+		"m_Data_3_": 1736932493
+	},
+	"m_TransitionOverrides": []
+}

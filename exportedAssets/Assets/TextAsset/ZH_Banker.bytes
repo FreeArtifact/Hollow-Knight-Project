@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">你改变主意了？好吧，你随时都可以回来。</entry>
+<entry name="BANKER_FAREWELL">再见了。注意安全。</entry>
+<entry name="BANKER_DREAM_SPA">……哦不……别过来，可怕的小东西……</entry>
+<entry name="BANKER_DEPOSIT">亲爱的，做得很好！我会保护好你的吉欧的。</entry>
+<entry name="BANKER_BALANCE_ZERO">我……我已经没有钱了……我……啊，我想，你现在应该离开了吧？&lt;page&gt;好……好，我觉得这样最好……</entry>
+<entry name="BANKER_GREET">你好啊，亲爱的！想要办一些银行业务？</entry>
+<entry name="BANKER_REMEET">你有重新考虑过开个账户吗？失去吉欧是一件可怕的事情。&lt;page&gt;在这个又大又危险的世界里闯荡，知道你的吉欧安全的在我这里会让你安心不少。</entry>
+<entry name="BANKER_ACCT_OPEN">你是个聪明人。当下次你被野兽撕碎的时候，会庆幸的发现你的钱正安全的躺在我的口袋……呃……我是说保险箱里。&lt;page&gt;现在我们来办些银行业务吧。</entry>
+<entry name="BANKER_SPA_GREET">哇？哦，你……你回来了。我只是觉得，上次将是我最后一次……呃……看到你。&lt;page&gt;这……你的吉欧啊。你应当知道，对我来说要保管好吉欧也是压力很大的。其实因为压力太大我已经永远离开了银行业。</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">还是不感兴趣？你太优柔寡断了。大胆地做出决定并实行！这是让财富增长的秘诀。 </entry>
+<entry name="BANKER_MEET">你好，亲爱的。在你来之前，我正要关门大吉去另外的地方呢。如果你有兴趣的话，我这提供银行服务。&lt;page&gt;如果你一直把吉欧带在身上的话，你很有可能会失去它们，这多么令人害怕啊！&lt;page&gt;我的保险箱要安全多了。我当了这么多年的银行家，从来没有丢过一个吉欧！&lt;page&gt;也许你会考虑在我这开个银行账户？</entry>
+<entry name="BANKER_SPA_MEET">哦……啊，又见面了亲爱的。真想不到会在这遇见你。&lt;page&gt;你说你在找你的钱？好……吧，你看，是这样的。说起来很令人难过，但……它们已经被花完了。&lt;page&gt;银行运行需要的成本是很高的，所以我不得不从你的账户中抽取一笔大额的服务费。&lt;page&gt;这当然是完全合法的。只是整个银行交易的一部分……啊哈哈……哈。&lt;page&gt;但是……嗯，能在这见面我感到十分高兴，请你离开一会好吗。如果你能给我点私人时间，我就可以很快泡完。然后你就可以独享温泉啦。</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">……我觉得我可……可能只是在这儿休息一小会儿。是的，我觉得这样最好。</entry>
+<entry name="BANKER_ACCT_DECLINE">我理解你不想与这些来之不易的吉欧分开的心情。如果你改变主意的话，我随时都在。</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">哦，等等，真可惜。要开一个银行账户的话你的吉欧还不够多，当你凑够 100 个吉欧的时候再回来，我会帮你开户的。</entry>
+<entry name="BANKER_WITHDRAW">感谢您的提款。别一次把他们都花完！</entry>
+<entry name="BANKER_SPA_REPEAT">……别……别生气，好吗？</entry>
+<entry name="BANKER_DREAM">……什么时候才能再去一次那令人愉悦的温泉呢？那里的泉水可以让我那紧张的壳完全放松下来……</entry>
+</entries>

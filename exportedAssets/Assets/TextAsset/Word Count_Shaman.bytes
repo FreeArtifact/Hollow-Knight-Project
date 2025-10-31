@@ -1,0 +1,21 @@
+<entries>
+<entry name="SHAMAN_MEET">75</entry>
+<entry name="SHAMAN_OPENED_GATE">18</entry>
+<entry name="SHAMAN_SCREAM"></entry>
+<entry name="SHAMAN_FUNG_DREAM"></entry>
+<entry name="SHAMAN_TRAPPED_1">119</entry>
+<entry name="SHAMAN_OPEN_GATE">28</entry>
+<entry name="SHAMAN_DREAM"></entry>
+<entry name="SHAMAN_SUMMONED_2">31</entry>
+<entry name="SHAMAN_CRYSTAL_DREAM"></entry>
+<entry name="SHAMAN_QUAKE"></entry>
+<entry name="SHAMAN_RETURN">23</entry>
+<entry name="SHAMAN_KILLED_BLOCKER_1">65</entry>
+<entry name="SHAMAN_KILLED_BLOCKER_2">80</entry>
+<entry name="SHAMAN_FUNG"></entry>
+<entry name="SHAMAN_QUAKE2"></entry>
+<entry name="SHAMAN_FIREBALL2"></entry>
+<entry name="SHAMAN_SUMMONED_1">30</entry>
+<entry name="SHAMAN_SCREAM2"></entry>
+<entry name="SHAMAN_TRAPPED_2">50</entry>
+</entries>

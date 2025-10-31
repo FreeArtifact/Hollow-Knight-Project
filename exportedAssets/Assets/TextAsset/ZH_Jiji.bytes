@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">我喜欢的食物……它软糯圆润，弹牙利口。它散发出的气味……光是想着就能让我兴奋。它真是此世穷奢极侈之物。</entry>
+<entry name="GREET">啊，又见面了。你最近怎么样？是因为你的遗憾而来找我吗？让我看着你的眼睛……</entry>
+<entry name="MEET1">欢迎，小闯入者。我在这里睡了一段时间……有些时候了？&lt;page&gt;啊。是，是。现在你来了，唤醒了我。我觉得没关系。我甚至可以帮助你。</entry>
+<entry name="RITUAL_BEGIN">嗯……我会好好享用这个小菜的。现在，按照约定，我们将开始仪式。</entry>
+<entry name="WATERWAYS">是的，我可以看到你留下的遗憾。一个黑色的污点，被管道和流水围拢。不过它不能被冲走……</entry>
+<entry name="SHADE_OFFER">我可以召回你的遗憾，只要你与我分享美味的食物。</entry>
+<entry name="RITUAL_REPEAT">再会。我会在享用这顿大餐时记起你的。</entry>
+<entry name="SHAMAN_TEMPLE">是的，我可以看到你留下的遗憾。一个黑色的污点，在祖先的山丘……一个崇拜异端的地方。</entry>
+<entry name="CLIFFS">是的，我可以看到你留下的遗憾。一个黑色的污点，在我们头顶上方，被嚎叫的狂风包围着。</entry>
+<entry name="MEET2">我是吉吉，如果你找到了我的房间，你一定需要我的帮助。&lt;page&gt;你看，有时我们在世上留下遗憾，例如那黑色的污点。&lt;page&gt;如果我们不处理这些遗憾，希望就会从我们身上流失。&lt;page&gt;你有自己的遗憾吗？让我看着你的眼睛，只要一会儿……</entry>
+<entry name="DREAM">我一定是睡得太久了。这片土地现在变得如此黑暗，充满了遗憾的污点。&lt;page&gt;就连空气也混沌不堪。如果我再度睡着，黑暗会悄然而至，然后将我完全吞噬吗？</entry>
+<entry name="ABYSS">是的，我可以看到你留下的遗憾。不过很模糊……一个黑色的污点，在这世界幽深的底部，被黑暗所包围。几乎成为了黑暗的一部分……</entry>
+<entry name="CROSSROADS">是的，我可以看到你留下的遗憾。一个黑色的污点，正好在我们的下面，迷失在王国那扭曲的道路和高速公路之间。</entry>
+<entry name="SHADE_OFFER_INTRO">作为一项服务，我可以召回你的遗憾，这样它们可以任凭你处置。这是你想要的吧？&lt;page&gt;啊，但我饿死了。也许你能分一点点食物给我？我睡了好久刚醒，而你勾起了我的食欲。</entry>
+<entry name="HIVE">是的，我可以看到你留下的遗憾。一个黑色的污点，被金色的光环绕，就在远方的蜂房。</entry>
+<entry name="DECLINE">哦？好吧，既然你没有与遗憾和解的意愿，我也爱莫能助。</entry>
+<entry name="RITUAL_COMPLETED">啊，看来你是和自己的遗憾握手言和了。而且和解的方式相当新奇，要我说的话还挺残酷。真是一出好戏啊。就此别过了。我会在享用这顿大餐的时候记起你的。</entry>
+<entry name="WASTES">是的，我可以看到你留下的遗憾。一个黑色的污点，浮现在奇怪的真菌和起泡的湖泊之间。</entry>
+<entry name="NOSHADE">啊，你似乎没有任何无法释怀的遗憾。你多么幸运。你不需要我这种服务。</entry>
+<entry name="CITY">是的，我可以看到你留下的遗憾。一个黑色的污点，在王国首都的中心地带。雨水都无法将它洗净。</entry>
+<entry name="SHADE_CHARM">哦哦哦。我的主人一定难以忘怀……&lt;page&gt;很少有虫子如此彻底地处理自己的遗憾，但你似乎可以做到。&lt;page&gt;要穿过怎样的黑暗才能达到这样的境界啊？</entry>
+<entry name="QUEENS_STATION">是的，我可以看到你留下的遗憾。一个黑色的污点，独自出现在王后的驿站。</entry>
+<entry name="MINES">是的，我可以看到你留下的遗憾。一个黑色的污点，几乎被闪烁的水晶发出的光芒所掩盖。</entry>
+<entry name="KINGS_PASS">是的，我可以看到你留下的遗憾。附近的一个黑色的污点，恰好就在这个王国的入口。</entry>
+<entry name="COLOSSEUM">是的，我可以看到你留下的遗憾。一个黑色的污点，被一群战士和愚人所包围……</entry>
+<entry name="NOSHADE_REPEAT">你似乎没有遗憾。你不需要我这样的服务。再会。</entry>
+<entry name="NO_EGGS">嗯，但你什么吃的也没带。至少没有什么让我感兴趣的。我不能在空着肚皮干活，所以，搞到些好吃的后再回来找我吧……要有营养的。</entry>
+<entry name="LOST_SHADE">是的，我可以看到你留下的遗憾。一个黑色的污点，在我们下方的黑暗中。</entry>
+<entry name="DEEPNEST">是的，我可以看到你留下的遗憾。一个黑色的污点，在王国幽深的巢穴隧道里，依稀可见。</entry>
+<entry name="GREEN_PATH">是的，我可以看到你留下的遗憾。一个黑色的污点，在一个郁郁葱葱的绿地。</entry>
+<entry name="OUTSKIRTS">是的，我可以看到你留下的遗憾。一个黑色的污点，在世界的边缘。</entry>
+<entry name="RESTING_GROUNDS">是的，我可以看到你留下的遗憾。一个黑色的污点，在那安眠的圣地。</entry>
+<entry name="FOG_CANYON">是的，我可以看到你留下的遗憾。一个黑色的污点，迷失在一片陌生地区的雾气中。</entry>
+<entry name="ROYAL_GARDENS">是的，我可以看到你留下的遗憾。一个黑色的污点，破坏了花园的美丽。</entry>
+</entries>

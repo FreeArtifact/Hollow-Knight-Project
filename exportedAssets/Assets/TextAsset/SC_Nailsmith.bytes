@@ -1,0 +1,29 @@
+<entries>
+<entry name="NAILSMITH_OFFER">如果你愿意，我可以重新铸造你的剑。它会使刀片更加致命。</entry>
+<entry name="NAILSMITH_MEET_2">嗯？&lt;page&gt;哦。我还以为你是谁呢。</entry>
+<entry name="NAILSMITH_MEET_3">你是制剑匠吗？好吧，你找到了一个。我没有什么要说，但如果需要修复剑，那么你算是找到正确的虫子了。&lt;page&gt;你的剑状态很糟糕。这显然不是我的。尽管如此，任何东西都可以通过足够的努力和技术得到精炼，即使是破碎的刀片。</entry>
+<entry name="NAILSMITH_MEET_1">你又给我带来一把剑要磨吗？把它放在地上，一会儿回来，如果你还活着的话。</entry>
+<entry name="PAINTED_REPEAT">在圣巢的黑暗中，谁会想到我会遇到这样鼓舞人心的灵魂。</entry>
+<entry name="MODELLING">我们正在打造一支完整的王国骑士队伍。在他们的时代，我几乎没有引起过他们的注意，但是，夏奥敏锐地记得每个人。&lt;page&gt;真是太让人耳目一新了。没有像铸剑这样粗重的工作。我只是喜欢所有精致的细节。</entry>
+<entry name="NAILSMITH_KILL_REPEAT">不要犹豫。我求求你。杀了我！我想体验这把剑细腻的边缘。</entry>
+<entry name="NAILSMITH_OFFER_ORE">我看到你有一些浅矿石。一种罕见的细小金属，那个。给我点矿石和杰奥币以回报我，我将重新铸造你的剑，使它更加强大。</entry>
+<entry name="NAILSMITH_NEED_ORE1">如果你给我一块浅矿石，我可以把它锻造成你的剑，使它更加强大。</entry>
+<entry name="NAILSMITH_NEED_ORE2">如果你给我两块浅矿石，我可以把它锻造成你的剑，使它更加强大。</entry>
+<entry name="NAILSMITH_NEED_ORE3">如果你给我三块浅矿石，我可以把它锻造成你的剑，使它更加强大。</entry>
+<entry name="NAILSMITH_ACCEPT">你随便。我要干活了。</entry>
+<entry name="NAILSMITH_REGREET">嗯？你还在这里。你还想要什么吗？</entry>
+<entry name="ART_MEET">嗯？哦，你好，旅行者。世界这么大，我们竟然再次相遇，真是奇怪。&lt;page&gt;我必须感谢你，因为当我让你杀掉我时，你并没有照做。我一开始很生气，但是我想了想，就很快发现你的决定的智慧之处。&lt;page&gt;世界不只是用金属和武器制成的。我开始探索，很快就找到了自己的方式。&lt;page&gt;夏奥精通许多艺术，并答应把他会的东西教给我。我想我会很开心的。</entry>
+<entry name="ART_DREAM">….独立承受痛苦的时代…这样更好…</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">…锻造完美之剑…</entry>
+<entry name="PAINTED">恐怕我不能细说了。如果我移动太多，夏奥的作品将被毁掉，我不想看到他的不安。&lt;page&gt;虽然他看起来仪表堂堂，但实际上他很脆弱。</entry>
+<entry name="NAILSMITH_COMPLETE_1">好了。重新铸造完成。&lt;page&gt;我磨好了你的剑的边缘。你会发现它比以前更加强大。&lt;page&gt;出发吧，让敌人尝尝它的厉害。</entry>
+<entry name="NAILSMITH_COMPLETE_2">好了。重新铸造完成。&lt;page&gt;我给你的剑加了一条沟。砍的时候应该更加有力。你会发现它比以前更加强大了。&lt;page&gt;出发吧，让敌人尝尝它的刀片的厉害。</entry>
+<entry name="NAILSMITH_COMPLETE_3">我们到了。重新铸造完成。&lt;page&gt;我把剑改造成了螺旋形态。这个任务非常棘手。你会发现它比以前更加强大。&lt;page&gt;你现在就出发吧。奋勇前进吧。</entry>
+<entry name="NAILSMITH_DECLINE">你不感兴趣吗？你自便。</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">啊，你没有杰奥币？你有了以后再来看我。</entry>
+<entry name="MODELLING_REPEAT">特别好。我从来不相信我的爪子能制作出这样灵巧的结构。</entry>
+<entry name="NAILSMITH_GREET">嗯？哦，你回来了。</entry>
+<entry name="NAILSMITH_KILL">拿着一把锻造的完美之剑，我这一生中的工作也到此结束。我唯一剩下的愿望是看到和感受真正的刀光剑影！&lt;page&gt;求你杀了我吧。在我生命中的最后一刻，我想体验这把剑细腻的边缘。&lt;page&gt;经过这一切，所有这些辛劳…我没有赢得它吗？</entry>
+<entry name="NAILSMITH_COMPLETE_4">完成。重新铸造完成。&lt;page&gt;你的剑比以前更加强大了。尽可能强大。&lt;page&gt;我只在你的武器上看到过这样的潜力。最后，我看到一把完美之剑的威严。&lt;page&gt;想到这一刻来得这么快…&lt;page&gt;…我…我必须去外面一会儿…</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">我一生的工作完结…还剩下多少…？</entry>
+</entries>

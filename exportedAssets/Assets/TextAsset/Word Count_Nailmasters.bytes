@@ -1,0 +1,36 @@
+<entries>
+<entry name="MATO_GREET"></entry>
+<entry name="MATO_ORO"></entry>
+<entry name="ORO_GREET"></entry>
+<entry name="ORO_MATO"></entry>
+<entry name="ORO_BOW"></entry>
+<entry name="ORO_ART"></entry>
+<entry name="ORO_SLY"></entry>
+<entry name="MATO_SHEO"></entry>
+<entry name="MATO_REPEAT"></entry>
+<entry name="MATO_TAUGHT"></entry>
+<entry name="MATO_REFUSE"></entry>
+<entry name="SHEO_MATO"></entry>
+<entry name="SHEO_MEET"></entry>
+<entry name="ORO_MEET"></entry>
+<entry name="SHEO_ART"></entry>
+<entry name="SHEO_SLY"></entry>
+<entry name="MATO_BOW"></entry>
+<entry name="MATO_ART"></entry>
+<entry name="ORO_REFUSE"></entry>
+<entry name="MATO_SLY"></entry>
+<entry name="ORO_REPEAT"></entry>
+<entry name="ORO_TAUGHT"></entry>
+<entry name="ORO_SHEO"></entry>
+<entry name="SHEO_REFUSE"></entry>
+<entry name="SHEO_NAILSMITH"></entry>
+<entry name="SHEO_REPEAT"></entry>
+<entry name="SHEO_DREAM"></entry>
+<entry name="MATO_DREAM"></entry>
+<entry name="SHEO_TAUGHT"></entry>
+<entry name="SHEO_ORO"></entry>
+<entry name="SHEO_REPEAT_MODEL"></entry>
+<entry name="ORO_DREAM"></entry>
+<entry name="MATO_MEET"></entry>
+<entry name="SHEO_GREET"></entry>
+</entries>

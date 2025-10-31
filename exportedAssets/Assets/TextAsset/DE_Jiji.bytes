@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">Das Essen, das ich mag ... Es ist weich und rund und zerplatzt so schön im Mund. Es geht ein Geruch davon aus ... Ich werde schon ganz aufgeregt, wenn ich nur darüber nachdenke. Es ist wirklich der höchste kulinarische Genuss auf der ganzen Welt. </entry>
+<entry name="GREET">Ah, hallo mal wieder. Wie ist es dir ergangen? Kommst du zu mir, weil du etwas bedauerst? Lass mich doch einmal in dich hineinblicken ...</entry>
+<entry name="MEET1">Willkommen, kleiner Eindringling. Ich war hier drin eine Zeit lang im Tiefschlaf ... Eine Zeit lang?&lt;page&gt;Ah. Ja. Ja. Tja, und jetzt hast du mich aufgeweckt. Macht aber nichts, denke ich. Vielleicht kann ich dir ja sogar helfen.</entry>
+<entry name="RITUAL_BEGIN">Mmmm ... Diesen Leckerbissen werde ich sehr genießen. Wie versprochen werde ich jetzt mit dem Ritual beginnen.</entry>
+<entry name="WATERWAYS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, umgeben von Rohren und fließendem Wasser. Doch er kann nicht davongespült werden ...</entry>
+<entry name="SHADE_OFFER">Ich kann deine Sorgen zu dir zurückholen, wenn du mir leckeres Essen gibst.</entry>
+<entry name="RITUAL_REPEAT">Mach&#39;s gut. Ich werde an dich denken, während ich speise.</entry>
+<entry name="SHAMAN_TEMPLE">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck in einem Ahnenhügel ... einem seltsamen Ort der Verehrung.</entry>
+<entry name="CLIFFS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck hoch über uns, umschlossen vom heulenden Wind.</entry>
+<entry name="MEET2">Ich bin Jiji und wenn du es bis zu meinem Raum geschafft hast, brauchst du sicher meine Hilfe.&lt;page&gt;Manchmal lassen wir Dinge, die wir bereuen, in der Welt zurück, wie Schmutzflecken.&lt;page&gt;Wenn wir uns mit solchen Dingen nicht auseinandersetzen, wird die Hoffnung uns nach und nach verlassen.&lt;page&gt;Gibt es Dinge, die du bedauerst, kleines Wesen? Lass mich doch einmal für einen Augenblick in dich hineinblicken ...</entry>
+<entry name="DREAM">Wie lang ich geschlafen haben muss. Dieses Land ist jetzt so viel düsterer, so bedeckt mit den Schmutzflecken des Bedauerns.&lt;page&gt;Selbst die Luft ist dunstiger geworden. Wird die Finsternis hier eindringen und mich vollständig verschlingen, wenn ich wieder einschlafe?</entry>
+<entry name="ABYSS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Doch ich kann kaum etwas erkennen ... Ein dunkler Fleck weit unten in der Welt, umgeben von Finsternis. Fast schon ein Teil von ihr ...</entry>
+<entry name="CROSSROADS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck direkt unter uns, verloren in den verwinkelten Gassen und Straßen des Königreichs.</entry>
+<entry name="SHADE_OFFER_INTRO">Ich kann dir helfen, indem ich dir deine Sorgen zurückgebe, sodass du mit ihnen fertig werden kannst. Möchtest du das?&lt;page&gt;Oh, doch ich bin so hungrig. Wärst du vielleicht bereit, mir ein bisschen von deinem Essen zu geben? Wenn man so lang schläft wie ich, bekommt man ganz schön Appetit.</entry>
+<entry name="HIVE">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck umgeben von goldenem Licht und einem emsigen Schwarm, weit weg von hier.</entry>
+<entry name="DECLINE">Oh? Nun, wenn du mit deinen Sorgen nicht fertig werden willst, kann ich dir auch nicht helfen.</entry>
+<entry name="RITUAL_COMPLETED">Ah, du scheinst Frieden mit deinen Sorgen geschlossen zu haben und das auf eine ungewöhnliche Art. Ich würde sogar sagen, auf eine brutale Art. Was für ein erfreulicher Anblick. Mach&#39;s gut und bis bald. Ich werde an dich denken, während ich speise.</entry>
+<entry name="WASTES">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, der sich zwischen seltsamen Pilzen und blubbernden Seen verbirgt.</entry>
+<entry name="NOSHADE">Ah, dir scheint kein Bedauern anzuhaften. Du kannst von Glück reden. Du brauchst keine Hilfe von jemandem wie mir.</entry>
+<entry name="CITY">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck im Herzen der Hauptstadt des Königreichs. Kein Regen kann ihn wegspülen.</entry>
+<entry name="SHADE_CHARM">Oooohhhh. Meine Meister wären beeindruckt ...&lt;page&gt;Es ist selten, dass jemand mit allem, was er bereut, so gut und so vollständig fertig wird, doch du scheinst es geschafft zu haben.&lt;page&gt;Welch Düsternis muss man durchschreiten, um so etwas zu leisten?</entry>
+<entry name="QUEENS_STATION">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, einsam an der Station der Königin.</entry>
+<entry name="MINES">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, kaum zu sehen hinter dem Glühen der umliegenden, schimmernden Kristalle.</entry>
+<entry name="KINGS_PASS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck in der Nähe, direkt an den Toren zu diesem Königreich.</entry>
+<entry name="COLOSSEUM">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, umgeben von Kriegern und Narren.</entry>
+<entry name="NOSHADE_REPEAT">Du scheinst keine Sorgen zu haben und nichts zu bedauern. Du brauchst keine Hilfe von jemandem wie mir. Leb wohl.</entry>
+<entry name="NO_EGGS">Hmm, aber du hast leider kein Essen dabei. Zumindest keines, das ich nehmen würde. Auf leeren Magen kann ich nicht arbeiten, also komm bitte zurück, sobald du etwas wirklich Leckeres gefunden hast ... Etwas Nahrhaftes.</entry>
+<entry name="LOST_SHADE">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, versteckt in der Finsternis unter uns.</entry>
+<entry name="DEEPNEST">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, kaum zu sehen in den Tunneln eines Nests tief unter diesem Königreich.</entry>
+<entry name="GREEN_PATH">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck in dicht bewachsenem Grün.</entry>
+<entry name="OUTSKIRTS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck ganz am Ende der Welt.</entry>
+<entry name="RESTING_GROUNDS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck an einem heiligen Ort der Ruhe.</entry>
+<entry name="FOG_CANYON">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, verloren in den Nebeln einer fremdartigen Gegend.</entry>
+<entry name="ROYAL_GARDENS">Ja, ich sehe die Sorgen, die du zurückgelassen hast. Ein dunkler Fleck, der die Schönheit eines Gartens verdreckt.</entry>
+</entries>

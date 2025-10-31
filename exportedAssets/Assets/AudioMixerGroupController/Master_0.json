@@ -1,0 +1,57 @@
+{
+	"m_AudioMixer": { "m_Collection": "resources-1.assets", "m_PathID": 3788 },
+	"m_BypassEffects": false,
+	"m_Children": [
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3821 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3818 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3827 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3823 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3815 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3825 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3826 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3801 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3811 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3814 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3820 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3816 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3805 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3808 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3803 },
+		{ "m_Collection": "resources-1.assets", "m_PathID": 3828 }
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "resources-1.assets", "m_PathID": 5 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 263358188,
+		"m_Data_1_": 1298433030,
+		"m_Data_2_": 397684888,
+		"m_Data_3_": 4067558978
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "Master",
+	"m_Pitch": {
+		"m_Data_0_": 3335292329,
+		"m_Data_1_": 1187803236,
+		"m_Data_2_": 1449091727,
+		"m_Data_3_": 1826617481
+	},
+	"m_PrefabAsset": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 3001791956,
+		"m_Data_1_": 1138742134,
+		"m_Data_2_": 3675364786,
+		"m_Data_3_": 3556466429
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 2410041603,
+		"m_Data_1_": 1115611977,
+		"m_Data_2_": 2948392352,
+		"m_Data_3_": 3890309947
+	}
+}

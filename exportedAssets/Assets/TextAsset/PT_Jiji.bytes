@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">A comida que eu gosto... é macia, redonda e produz uma deliciosa explosão na boca. O cheiro que emite... só de pensar nisso fico animada. É a coisa mais soberba do mundo. </entry>
+<entry name="GREET">Oh, olá novamente. Como está? Você veio me ver pelos seus arrependimentos? Deixe-me observar dentro de você...</entry>
+<entry name="MEET1">Bem-vindo, pequeno intruso. Eu tenho dormido aqui pacificamente por um tempo... Algum... tempo?&lt;page&gt;Ah. Sim. Sim. Bem, agora você me acordou. Não é importante, eu suponho. Talvez eu possa ajudá-lo.</entry>
+<entry name="RITUAL_BEGIN">Mmmm... Eu irei aproveitar tremendamente este pedaço. Agora, como prometido, vamos começar o ritual.</entry>
+<entry name="WATERWAYS">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura cercada por tubos e água corrente. Embora a água não possa limpá-la...</entry>
+<entry name="SHADE_OFFER">Posso devolver o seu arrependimento, se você compartilhar a sua deliciosa refeição comigo.</entry>
+<entry name="RITUAL_REPEAT">Adeus. Eu pensarei em você enquanto saboreio minha refeição.</entry>
+<entry name="SHAMAN_TEMPLE">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura em um monte antigo... um lugar de cultos estranhos.</entry>
+<entry name="CLIFFS">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura logo acima de nós, cercada por ventos uivantes.</entry>
+<entry name="MEET2">Eu sou Jiji, e se você chegou até os meus aposentos, deve precisar de minha ajuda.&lt;page&gt;Você vê, as vezes deixamos para trás nossos arrependimentos no mundo como manchas escuras.&lt;page&gt;Se não enfrentar esses arrependimentos, começamos a perder lentamente a esperança.&lt;page&gt;Você também tem arrependimentos, pequenino? Deixe-me observá-lo por um momento...</entry>
+<entry name="DREAM">Quanto tempo devo ter dormido. Estas terras são muito mais escuras agora... cheia de arrependimentos.&lt;page&gt;Até mesmo o ar está mais pesado. Se eu dormir de novo, a escuridão entrará aqui e me engolirá inteira?</entry>
+<entry name="ABYSS">Sim, eu posso ver os arrependimentos que você deixou para trás. Embora percebo só um pouco... Eu vejo uma mancha escura nas profundezas do mundo, rodeado pela escuridão. Quase parte dela...</entry>
+<entry name="CROSSROADS">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura logo abaixo de nós, perdida nos caminhos sinuosos e nas estradas do reino.</entry>
+<entry name="SHADE_OFFER_INTRO">Como um serviço, eu posso devolver esses arrependimentos, para que possa enfrentá-los. É o que você quer, certo?&lt;page&gt;Ah, mas estou com muita fome. Talvez você estaria disposto a compartilhar um pouco de comida comigo? Se você dormir tanto quanto eu, vai acordar com um enorme apetite.</entry>
+<entry name="HIVE">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura cercada por luz dourada em uma colmeia longe daqui.</entry>
+<entry name="DECLINE">Oh? Bem, se você não deseja esquecer os seus arrependimentos, eu não posso ajudá-lo.</entry>
+<entry name="RITUAL_COMPLETED">Ah, você parece ter feito as pazes com seus arrependimentos de uma forma muito nova, e ouso dizer, brutal. Que alegria de contemplar. Adeus por enquanto. Eu pensarei em você enquanto saboreio minha refeição.</entry>
+<entry name="WASTES">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura aninhada entre fungos estranhos e lagos borbulhantes.</entry>
+<entry name="NOSHADE">Ah, você não parece ter nenhum arrependimento. Que sorte. Você não precisa dos serviços de alguém como eu.</entry>
+<entry name="CITY">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura no coração da capital do reino. A chuva não é suficiente para limpá-la.</entry>
+<entry name="SHADE_CHARM">Ooohhhh. Meus mestres estariam impressionados...&lt;page&gt;É incomum que alguém assuma seus arrependimentos completamente, mas você parece ter conseguido.&lt;page&gt;Que tipo de escuridão é preciso percorrer para alcançar algo?</entry>
+<entry name="QUEENS_STATION">Sim, eu posso ver os arrependimentos que você deixou atrás. Uma mancha escura sentada sozinha na Estação da Rainha.</entry>
+<entry name="MINES">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura quase escondida pelo brilho dos cristais cintilantes que a rodeiam.</entry>
+<entry name="KINGS_PASS">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura nas proximidades, logo na entrada deste reino.</entry>
+<entry name="COLOSSEUM">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura cercada por guerreiros e tolos.</entry>
+<entry name="NOSHADE_REPEAT">Não parece ter nenhum arrependimento te atormentando. Você não precisa dos serviços de alguém como eu. Adeus.</entry>
+<entry name="NO_EGGS">Hmm, mas você não tem nenhuma comida. Pelo menos nada que me interesse. Eu não posso render com o estômago vazio, então volte quando você tiver encontrado algo realmente saboroso... algo nutritivo.</entry>
+<entry name="LOST_SHADE">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura escondida na escuridão abaixo de nós.</entry>
+<entry name="DEEPNEST">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura quase invisível nos túneis de um ninho nas profundezas deste reino.</entry>
+<entry name="GREEN_PATH">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura em um local verde e frondoso.</entry>
+<entry name="OUTSKIRTS">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura muito longe na extremidade do mundo.</entry>
+<entry name="RESTING_GROUNDS">Sim, eu posso ver os arrependimentos que você deixou atrás. Uma mancha escura em um lugar de repouso sagrado.</entry>
+<entry name="FOG_CANYON">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura perdida na névoa de uma terra estranha.</entry>
+<entry name="ROYAL_GARDENS">Sim, eu posso ver os arrependimentos que você deixou para trás. Uma mancha escura, que estraga a beleza de um jardim.</entry>
+</entries>

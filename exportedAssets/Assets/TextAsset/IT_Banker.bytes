@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">Hai cambiato idea? Beh, torna quando vuoi.</entry>
+<entry name="BANKER_FAREWELL">Allora, arrivederci. Sii prudente.</entry>
+<entry name="BANKER_DREAM_SPA">...Oohh no... Lasciami in pace, esserino orripilante...</entry>
+<entry name="BANKER_DEPOSIT">Ben fatto, caro! Ci penserò io a tenere al sicuro i tuoi Geo.</entry>
+<entry name="BANKER_BALANCE_ZERO">N-non mi rimane più niente... Io, ehm... immagino che, ehm, tu debba andare ora, no?&lt;page&gt;S-s-sì, penso che sarebbe meglio...</entry>
+<entry name="BANKER_GREET">Salve, caro! Pronto per una transazione bancaria?</entry>
+<entry name="BANKER_REMEET">Hai riconsiderato l’idea di aprire un conto? Perdere dei Geo è terribile.&lt;page&gt;Sapendo che i tuoi Geo sono al sicuro qui con me, potresti avventurarti in questo vasto mondo pericoloso con più tranquillità.</entry>
+<entry name="BANKER_ACCT_OPEN">Sei un tipo sveglio. La prossima volta che un mostro avrà la meglio su di te, sarai contento di sapere che i tuoi Geo sono al sicuro nel mio carap-... ehm... nel mio caveau.&lt;page&gt;Allora, iniziamo pure la transazione.</entry>
+<entry name="BANKER_SPA_GREET">Cosa? Oh... sei... sei tornato. Quando te ne sei andato ero convinta che non ti avrei visto... ehm... mai più.&lt;page&gt;È solo... ehm... quella questione dei tuoi Geo. È stato molto stressante anche per me, sai. Così stressante, in effetti, che ho deciso di lasciare la banca una volta per tutte.</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Non ti interessa? Sei troppo titubante. Devi prendere una decisione risoluta e poi andare fino in fondo. È questo il segreto per far fruttare i tuoi Geo.</entry>
+<entry name="BANKER_MEET">Salve, caro. Ero sul punto di chiudere e andar via, prima che arrivassi tu. Io offro servizi bancari, se la cosa ti interessa.&lt;page&gt;Perdere dei Geo è terribile e non è improbabile che accada, se li porti sempre con te.&lt;page&gt;Il mio caveau è molto più sicuro. In tutti i miei anni da banchiera non ho mai perso un solo Geo!&lt;page&gt;Magari stavi pensando di aprire un conto?</entry>
+<entry name="BANKER_SPA_MEET">Oh... A-ah, ma salve, m-mio caro. Che sorpresa vederti qui!&lt;page&gt;Stai cercando i tuoi Geo? Beh, ecco, è che eeehm... È triste, ma... non resta più niente. Tutto speso.&lt;page&gt;I costi di gestione di una banca possono essere molto alti, così ho dovuto addebitare una grossa commissione sul tuo conto.&lt;page&gt;Tutto perfettamente legale, ovviamente. È così che funziona il sistema bancario... ah ah ah... ah.&lt;page&gt;Ecco... ehm... grazie per avermi fatto visita, ma ora dovresti riprendere il tuo viaggio, no? Se mi lasci un po’ di privacy, presto avrò finito. Poi potrai avere le terme tutte per te.</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">...Penso che r-r-riposerò qui per un po’. Sì, sarebbe meglio.</entry>
+<entry name="BANKER_ACCT_DECLINE">Capisco. Non è facile separarsi dai Geo duramente guadagnati. Mi troverai qui, se dovessi cambiare idea.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Oh, un momento. Purtroppo non hai abbastanza Geo per aprire un conto. Quando avrai ottenuto 100 Geo torna da me e apriremo il tuo conto.</entry>
+<entry name="BANKER_WITHDRAW">Grazie per il prelievo. Non spenderli tutti in una volta!</entry>
+<entry name="BANKER_SPA_REPEAT">...Nessun r-rancore, vero?</entry>
+<entry name="BANKER_DREAM">...Quando potrò tornare in quelle terme deliziose? Quelle acque sono un toccasana per il mio carapace dolorante...</entry>
+</entries>

@@ -18,6 +18,15 @@ body {
     /* border: 1px solid white; */
 }
 
+.hunterEntrance a {
+    transition: .8s;
+}
+
+.hunterEntrance a:hover {
+    transform: scale(1.05);
+    transition: 0.8s;
+}
+
 .hunterEntrance img {
     width: 25vw;
     height: auto;

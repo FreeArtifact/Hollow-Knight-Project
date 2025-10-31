@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">Hast du mir noch einen Nagel zum Schleifen gebracht? Leg ihn auf den Boden und komm später wieder, wenn du noch am Leben bist.</entry>
+<entry name="NAILSMITH_DECLINE">Du hast also kein Interesse? Wie du willst.</entry>
+<entry name="ART_DREAM">... Nach einer Ewigkeit, in der ich allein geschuftet habe ... ist das hier viel schöner ...</entry>
+<entry name="MODELLING">Wir modellieren hier einen gesamten Satz der Ritter des Königreichs. Ich habe ihnen damals nicht viel Beachtung geschenkt, aber Sheo erinnert sich klar an jeden einzelnen.&lt;page&gt;Es ist so erfrischend. Ganz anders als die rohe Nagelbearbeitung. Ich liebe all die kleinen Details.</entry>
+<entry name="NAILSMITH_OFFER">Wenn du willst, kann ich deinen Nagel neu schmieden. Das wird die Klinge viel tödlicher machen.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Das wär&#39;s. Ich habe deine Waffe neu geschmiedet.&lt;page&gt;Ich habe den Nagel in eine Spiralform gebracht. Das war nicht ganz einfach. Du wirst merken, dass er jetzt stärker ist als je zuvor.&lt;page&gt;Geh jetzt raus. Schneide dir deinen Weg frei.</entry>
+<entry name="NAILSMITH_GREET">Hmm? Oh, du bist wieder da.</entry>
+<entry name="NAILSMITH_COMPLETE_1">Das wäre geschafft. Ich habe deine Waffe neu geschmiedet.&lt;page&gt;Ich habe die Schneide deines Nagels geschliffen. Du wirst merken, dass er jetzt viel stärker ist als zuvor.&lt;page&gt;Geh raus und probiere seine Kraft an deinen Gegnern aus.</entry>
+<entry name="PAINTED_REPEAT">Wer hätte gedacht, dass ich in der ganzen Dunkelheit von Heilandsnest solch eine beeindruckende Seele finden würde.</entry>
+<entry name="NAILSMITH_COMPLETE_4">Fertig. Ich habe deine Waffe jetzt neu geschmiedet.&lt;page&gt;Dein Nagel ist viel stärker als zuvor. So stark, wie er nur sein kann.&lt;page&gt;Nur in deiner Waffe habe ich je ein solches Potenzial gesehen. Endlich kann ich die Erhabenheit eines Reinen Nagels erblicken.&lt;page&gt;Dass dieser Moment so schnell gekommen ist ...&lt;page&gt;... Ich ... Ich muss mich kurz sammeln ...</entry>
+<entry name="NAILSMITH_COMPLETE_2">Das wäre geschafft. Ich habe deine Waffe neu geschmiedet.&lt;page&gt;Ich habe deinem Nagel eine Rille hinzugefügt. Er sollte jetzt viel effizienter schneiden. Du wirst merken, dass er jetzt stärker ist als zuvor.&lt;page&gt;Geh raus und probiere seine Klinge an deinen Gegnern aus.</entry>
+<entry name="NAILSMITH_REGREET">Hmm? Du bist immer noch da. Willst du noch etwas anderes?</entry>
+<entry name="NAILSMITH_ACCEPT">Wie du wünschst. Dann mache ich mich mal an die Arbeit.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">Zögere nicht. Ich flehe dich an. Strecke mich nieder! Ich will die ausgezeichnete Schneide dieser Klinge schmecken.</entry>
+<entry name="ART_MEET">Hmm? Oh, hallo, Reisender. Wie seltsam, dass wir uns in solch einer riesigen Welt wiedertreffen.&lt;page&gt;Ich danke dir, dass du mich nicht getötet hast, als ich dich darum bat. Ich war zunächst verärgert, aber dann hatte ich da oben einige Zeit zum Nachdenken und ich begriff schnell die Weisheit deiner Entscheidung.&lt;page&gt;Die Welt besteht aus mehr als nur Metall und Waffen. Ich habe mich auf eine Erkundungsreise gemacht und bin schon bald hier gelandet.&lt;page&gt;Sheo ist ein Meister vieler Künste und hat versprochen, mir beizubringen, was er kann. Ich glaube, ich werde hier recht glücklich sein.</entry>
+<entry name="NAILSMITH_SIGN">Unused</entry>
+<entry name="MODELLING_REPEAT">Das ist fabelhaft. Ich hätte nie gedacht, dass meine Klauen in der Lage sind, solch geschickte Griffe zu tätigen.</entry>
+<entry name="NAILSMITH_NEED_ORE1">Wenn du mir ein Stück Bleiches Erz bringst, kann ich es in deinen Nagel schmieden und ihn noch stärker machen.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Wenn du mir drei Stücke Bleiches Erz bringst, kann ich sie in deinen Nagel schmieden und ihn so noch stärker machen.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Wenn du mir zwei Stücke Bleiches Erz bringst, kann ich sie in deinen Nagel schmieden und ihn so noch stärker machen.</entry>
+<entry name="NAILSMITH_KILL">Jetzt, da ich einen Reinen Nagel geschmiedet habe, ist meine Arbeit in diesem Leben getan. Mein einziger Wunsch ist es jetzt, die wahre Kraft des Nagels selbst zu sehen und zu spüren!&lt;page&gt;Ich bitte dich, strecke mich nieder. Ich will in meinem letzten Moment die ausgezeichnete Schneide dieser Klinge schmecken.&lt;page&gt;Nach all dieser Zeit, all dieser Arbeit ... habe ich das da nicht verdient?</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">Ah, du hast nicht genügend Geo? Komm zurück, wenn du genug hast.</entry>
+<entry name="NAILSMITH_MEET_3">Du suchst einen Nagelschmied? Nun, du hast einen gefunden. Ich bin kein großer Redner, aber wenn ein Nagel repariert werden muss, bist du beim richtigen Käfer.&lt;page&gt;Dein Nagel ist in einem recht jämmerlichen Zustand. Offensichtlich keiner von meinen. Doch mit genug Arbeit und Können kann alles veredelt werden, sogar diese alte Klinge.</entry>
+<entry name="NAILSMITH_OFFER_ORE">Ich sehe, du hast etwas Bleiches Erz. Ein seltenes und erlesenes Metall. Gib mir das Erz und etwas Geo für meine Mühen und ich schmiede deinen Nagel neu und mache ihn stärker.</entry>
+<entry name="PAINTED">Ich kann leider nicht viel reden. Wenn ich mich zu viel bewege, ist Sheos Meisterwerk ruiniert und ich möchte ihn auf keinen Fall verärgern.&lt;page&gt;Er mag zwar imposant aussehen, aber er ist in Wahrheit sehr empfindsam.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">Mein Lebenswerk ist vollendet ... Was bleibt sonst noch zu tun ...?</entry>
+<entry name="NAILSMITH_MEET_2">Hmm?&lt;page&gt;Oh. Ich dachte, du seist jemand anderes.</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">... Den perfekten Nagel zu schmieden ...</entry>
+</entries>

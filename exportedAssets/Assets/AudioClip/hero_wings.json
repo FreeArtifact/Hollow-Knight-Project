@@ -1,0 +1,30 @@
+{
+	"m_Ambisonic": false,
+	"m_BitsPerSample": 16,
+	"m_Channels": 1,
+	"m_CompressionFormat": 1,
+	"m_CorrespondingSourceObject": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_EditorCompressionFormat": 0,
+	"m_EditorResource": {
+		"m_Offset": 0,
+		"m_Size": 0,
+		"m_Source": ""
+	},
+	"m_Frequency": 44100,
+	"m_HideFlags": 0,
+	"m_IsTrackerFormat": false,
+	"m_Legacy3D": true,
+	"m_Length": 0.8176871,
+	"m_LoadInBackground": false,
+	"m_LoadType": 0,
+	"m_Name": "hero_wings",
+	"m_PrefabAsset": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources-1.assets", "m_PathID": 0 },
+	"m_PreloadAudioData": true,
+	"m_Resource": {
+		"m_Offset": 15954144,
+		"m_Size": 9440,
+		"m_Source": "resources.resource"
+	},
+	"m_SubsoundIndex": 0
+}

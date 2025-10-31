@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">La comida que me gusta... es suave, redonda y produce una deliciosa explosión en la boca. El olor que emite... solo pensar en ello hace que me emocione. Es la cosa más soberbia del mundo. </entry>
+<entry name="GREET">Ah, hola otra vez. ¿Cómo te ha ido? ¿Has venido a verme por tus remordimientos? Deja que observe dentro de ti...</entry>
+<entry name="MEET1">Bienvenido, pequeño intruso. He estado plácidamente dormida aquí durante algún tiempo... ¿Algún... tiempo?&lt;page&gt;Ah. Sí. Sí. Bueno, ahora me has despertado. Supongo que no pasa nada. A lo mejor puedo hasta ayudarte.</entry>
+<entry name="RITUAL_BEGIN">Mmmm... Disfrutaré tremendamente de este bocado. Ahora, como te prometí, empezaremos el ritual.</entry>
+<entry name="WATERWAYS">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura rodeada de tuberías y agua corriente. Aunque el agua no la puede limpiar.</entry>
+<entry name="SHADE_OFFER">Puedo devolverte tus remordimientos, si compartes tu deliciosa comida conmigo.</entry>
+<entry name="RITUAL_REPEAT">Adiós. Pensaré en ti mientras saboreo mi comida.</entry>
+<entry name="SHAMAN_TEMPLE">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura en un montículo ancestral... un lugar de cultos extraños.</entry>
+<entry name="CLIFFS">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura justo encima de nosotros, rodeada de vientos aulladores.</entry>
+<entry name="MEET2">Soy Jiji y si has llegado hasta mis aposentos, debes necesitar mi ayuda.&lt;page&gt;Verás, a veces dejamos atrás nuestros remordimientos en el mundo, como manchas negras.&lt;page&gt;Si no nos enfrentamos a esos remordimientos, empezamos a perder lentamente la esperanza.&lt;page&gt;¿Tú también tienes remordimientos, pequeñín? Deja que te observe un momento...</entry>
+<entry name="DREAM">Cuánto tiempo debo haber dormido. Estas tierras son mucho más oscuras ahora... repletas de manchas de remordimientos.&lt;page&gt;Hasta el aire es más turbio. Si me vuelvo a dormir, ¿llegará hasta aquí la oscuridad y me tragará de una vez?</entry>
+<entry name="ABYSS">Sí, puedo ver los remordimientos que has dejado atrás. Aunque solo la percibo ligeramente... una mancha negra en lo más profundo del mundo, rodeada de oscuridad. Casi forma parte de ella...</entry>
+<entry name="CROSSROADS">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura justo debajo de nosotros, perdida entre los tortuosos senderos y caminos del reino.</entry>
+<entry name="SHADE_OFFER_INTRO">Como un servicio, puedo devolverte esos remordimientos, para que puedas enfrentarte a ellos. Es lo que quieres, ¿verdad?&lt;page&gt;Ah, pero tengo mucha hambre. ¿Quizás estarías dispuesto a compartir un poco de comida conmigo? Si duermes tanto como yo, te despertarás con un enorme apetito.</entry>
+<entry name="HIVE">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura rodeada de luz dorada, en una colmena muy lejos de aquí.</entry>
+<entry name="DECLINE">¿Oh? Bueno, si no tienes ningún deseo de poner en orden tus remordimientos, no puedo ayudarte.</entry>
+<entry name="RITUAL_COMPLETED">Ah, veo que has afrontado tus remordimientos de una forma muy novedosa y, me atrevo a decir, brutal. Qué placer para la vista. Adiós por ahora. Pensaré en ti mientras saboreo mi comida.</entry>
+<entry name="WASTES">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura colocada entre hongos extraños y lagos burbujeantes.</entry>
+<entry name="NOSHADE">Ah, no parece perseguirte ningún remordimiento. Qué suerte tienes. No necesitas los servicios de alguien como yo.</entry>
+<entry name="CITY">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura en el corazón de la capital del reino. La lluvia no basta para limpiarla.</entry>
+<entry name="SHADE_CHARM">Ooohhhh. Mis maestros estarían impresionados...&lt;page&gt;Es inusual que alguien asuma sus remordimientos sin reservas, pero tú pareces haberlo conseguido.&lt;page&gt;¿Qué clase de oscuridad debe uno atravesar para lograr algo así?</entry>
+<entry name="QUEENS_STATION">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura sentada sola en la Estación de la Reina.</entry>
+<entry name="MINES">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura casi oculta por el brillo de los cristales centelleantes que lo rodean.</entry>
+<entry name="KINGS_PASS">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura cercana, justo en la entrada de este reino.</entry>
+<entry name="COLOSSEUM">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura rodeada de guerreros e insensatos.</entry>
+<entry name="NOSHADE_REPEAT">No parece haber ningún remordimiento que te atormente. No necesitas los servicios de alguien como yo. Adiós.</entry>
+<entry name="NO_EGGS">Hmm, pero no llevas nada de comida. Al menos, nada que me interese. No puedo rendir con el estómago vacío, así que regresa cuando hayas encontrado algo verdaderamente sabroso... algo nutritivo.</entry>
+<entry name="LOST_SHADE">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha negra oculta en la oscuridad debajo de nosotros.</entry>
+<entry name="DEEPNEST">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha negra, apenas visible en los túneles de un nido de las profundidades de este reino.</entry>
+<entry name="GREEN_PATH">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura en un lugar verde y frondoso.</entry>
+<entry name="OUTSKIRTS">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura muy lejos, en los mismísimos confines del mundo.</entry>
+<entry name="RESTING_GROUNDS">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura en un lugar de reposo sagrado.</entry>
+<entry name="FOG_CANYON">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura perdida en la bruma de unas tierras extrañas.</entry>
+<entry name="ROYAL_GARDENS">Sí, puedo ver los remordimientos que has dejado atrás. Una mancha oscura, que estropea la belleza de un jardín.</entry>
+</entries>

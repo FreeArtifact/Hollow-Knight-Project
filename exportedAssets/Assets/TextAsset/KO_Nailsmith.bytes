@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">갈아야 할 또 다른 대못을 가져왔나요? 그냥 바닥에 놔두고 나중에 돌아와요, 아직 숨이 붙어있다면.</entry>
+<entry name="NAILSMITH_DECLINE">관심 없나요? 맘대로 해요.</entry>
+<entry name="ART_DREAM">....오랫동안 혼자서 고생했었는데... 이게 훨씬 더 좋구만...</entry>
+<entry name="MODELLING">우리는 왕국 기사단 전체를 만들고 있어요. 그들의 시대에 나는 크게 주의를 기울이지 않았지만, 셰오는 각각을 예리하게 기억해요.&lt;page&gt;정말 신선해요. 대못 작업의 조악함과는 달라요. 나는 그 모든 복잡한 세밀함이 좋아요.</entry>
+<entry name="NAILSMITH_OFFER">원한다면 당신 대못을 고쳐줄 수 있어요. 그러면 훨씬 더 치명적인 무기가 될 거예요.</entry>
+<entry name="NAILSMITH_COMPLETE_3">여깄어요. 제련이 완성되었어요.&lt;page&gt;대못을 나선형으로 변형했어요. 매우 까다로운 작업이었어요. 그 어느 때보다 더 강할 거예요.&lt;page&gt;이제 가봐요. 그걸로 베면서 앞으로 나아가요.</entry>
+<entry name="NAILSMITH_GREET">흠? 오, 돌아왔군요.</entry>
+<entry name="NAILSMITH_COMPLETE_1">여깄어요. 제련이 완성되었어요.&lt;page&gt;대못의 가장자리를 연마했어요. 전보다 훨씬 강할 거예요.&lt;page&gt;가서 적들에게 대못의 힘을 시험해 보세요.</entry>
+<entry name="PAINTED_REPEAT">신성둥지의 모든 어둠 속에서 내가 그처럼 영감을 주는 영혼을 만날 줄 누가 생각했겠어요?</entry>
+<entry name="NAILSMITH_COMPLETE_4">다 끝났어요. 제련이 끝났어요.&lt;page&gt;대못이 전보다 훨씬 강해졌어요. 그 무엇보다도.&lt;page&gt;당신의 무기에서만 그러한 잠재력을 보았어요. 마침내 대못 본연의 위엄을 보게 되었어요.&lt;page&gt;이런 순간이 내게 이렇게나 빨리 오다니...&lt;page&gt;...나... 잠시 밖에 나가 봐야겠어요...</entry>
+<entry name="NAILSMITH_COMPLETE_2">여깄어요. 제련이 완성되었어요.&lt;page&gt;대못에 홈을 추가했어요. 더 효율적으로 벨 수 있을 거예요. 전보다 더 강할 거예요.&lt;page&gt;가서 적들에게 대못을 시험해 보세요.</entry>
+<entry name="NAILSMITH_REGREET">흠? 아직 여기 있군요. 원하는 다른 것이 있나요?</entry>
+<entry name="NAILSMITH_ACCEPT">원하는 대로. 그럼 나는 일하러 갈게요.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">망설이지 말아요. 간청할게요. 날 베어줘요! 완벽하고 정교한 날을 맛보고 싶어요.</entry>
+<entry name="ART_MEET">흠? 오, 안녕하세요, 여행자. 이처럼 광대한 세상에서 다시 만나다니 참 이상한 일이죠.&lt;page&gt;내가 부탁했을 때 날 죽이지 않은 것에 대해 감사해야겠어요. 처음에는 화가 났었는데 시간을 두고 생각해 보니까 당신의 결정에 담긴 지혜를 알게 되었어요.&lt;page&gt;세상은 금속과 무기보다 많은 것들이 있어요. 나도 여행을 시작했고, 머지않아 여기서 나만의 길을 발견했어요.&lt;page&gt;셰오는 많은 기술을 알고 있고, 자신이 할 수 있는 것들을 가르쳐 주겠다고 약속했어요. 나는 여기에서 아주 행복한 것 같아요.</entry>
+<entry name="NAILSMITH_SIGN">Unused</entry>
+<entry name="MODELLING_REPEAT">이건 멋져요. 내 발톱이 이렇게 섬세한 작업을 할 수 있다고 생각지 못했어요.</entry>
+<entry name="NAILSMITH_NEED_ORE1">창백의 광석을 하나 가져오면 그것으로 대못을 제련해서 더 강하게 만들어 줄게요.</entry>
+<entry name="NAILSMITH_NEED_ORE3">창백의 광석을 세 개 가져오면 그것으로 대못을 제련해서 더 강하게 만들어 줄게요.</entry>
+<entry name="NAILSMITH_NEED_ORE2">창백의 광석을 두 개 가져오면 그것으로 대못을 제련해서 더 강하게 만들어 줄게요.</entry>
+<entry name="NAILSMITH_KILL">본연의 대못을 제련했으니 이번 생에 내가 할 일은 끝났어요. 내게 남은 유일한 욕망은 대못이 실제로 타격하는 것을 느끼는 거예요!&lt;page&gt;간청할게요. 나를 베어 주세요. 내 삶의 마지막 순간으로서 나는 이 대못의 정교한 날을 맛보고 싶어요.&lt;page&gt;이 모든 시간과 노력 후에... 내게 그럴 자격이 있지 않나요?</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">아, 지오가 충분하지 않나요? 지오가 충분해지면 나를 찾아와요.</entry>
+<entry name="NAILSMITH_MEET_3">대못제련공을 찾아 왔나요? 그럼 제대로 찾아 온 거예요. 나는 말은 많지 않지만, 대못 수리가 필요하다면 제대로 찾아왔어요.&lt;page&gt;당신 대못의 상태가 아주 안 좋군요. 분명 내가 수리한 것은 아니군요. 그렇지만 그처럼 부러진 날마저도 충분한 노력과 기술로 고칠 수 있어요.</entry>
+<entry name="NAILSMITH_OFFER_ORE">창백의 광석을 가지고 있군요. 희귀하고 정교한 금속이죠. 광석하고 내 노력의 대가로 지오를 약간 주면 당신 대못을 제련해서 더 강하게 만들어 줄게요.</entry>
+<entry name="PAINTED">길게는 말할 수 없어요. 내가 너무 많이 움직이면 셰오의 걸작이 망가지거든요. 그가 화난 모습을 보고 싶지 않아요.&lt;page&gt;그는 당당해 보이지만 사실은 많이 섬세해요.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">필생의 작품을 완성했으니... 내게 더 이상 무슨 의미가 있나...?</entry>
+<entry name="NAILSMITH_MEET_2">흠?&lt;page&gt;오. 다른 누구인 줄 알았어요</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">...완벽한 대못을 제련하기 위해...</entry>
+</entries>

@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">気が変わったの？　またいつでも来てちょうだい。</entry>
+<entry name="BANKER_FAREWELL">それじゃ、気をつけて行きなさい。</entry>
+<entry name="BANKER_DREAM_SPA">…もうなによ、この子、気色悪い… わたしのことは放っておいて…</entry>
+<entry name="BANKER_DEPOSIT">はい、では確かにお預かりするわね。</entry>
+<entry name="BANKER_BALANCE_ZERO">も、もうなにも残ってないわ… だ、だから、もう行ってちょうだい。ね？&lt;page&gt;そ、そうよ、それがいいと思うわ…</entry>
+<entry name="BANKER_GREET">こんにちは！　銀行をご利用かしら？</entry>
+<entry name="BANKER_REMEET">口座を作る気になったかしら？　ジオを失うのはつらいわよ。&lt;page&gt;自分のジオが安全に保管されていることがわかれば、この広くて危険な世界をもっと自信をもって歩き回れるようになるわ。</entry>
+<entry name="BANKER_ACCT_OPEN">賢い子ね。今度恐ろしい怪物にやられてしまったときは、自分のジオをわたしの戸棚…いえ金庫に預けておいたことに感謝するはずよ。&lt;page&gt;では、はじめましょうか。</entry>
+<entry name="BANKER_SPA_GREET">え？　あら…も、戻ってきたの？　てっきりもう二度とあなたに…その…会うことはないかと思ったんだけど。&lt;page&gt;その… あの…あなたのジオのことだけど、わたしにとってもつらいのよ。とってもつらいから、銀行自体をやめちゃったくらいなの。</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">やっぱりやめるの？　あなたは慎重すぎるようね。自分のジオを増やすには、ときには大胆な決断も必要よ。</entry>
+<entry name="BANKER_MEET">おや、こんにちは。誰も来ないから、もうここを閉めてしまおうかと思っていたのよ。ちなみにわたしはここで銀行を営んでいるの。&lt;page&gt;ジオを失うのはつらいでしょ？　それも自分で持っていたものなら、なおさらのこと。&lt;page&gt;わたしの金庫に入れておけば安全よ。わたしは銀行員として暮らしてこのかた、1個のジオだって失ったことはないわ！&lt;page&gt;よかったら口座を作ってみる？</entry>
+<entry name="BANKER_SPA_MEET">あら…ええと…こ、こんにちは。こ、こんなところで会うなんてき、奇遇ね。&lt;page&gt;ジオのことで来たのかしら？　そ、そうね、あの、残念だけど、あれは…なくなっちゃったの。みんな使っちゃったから。&lt;page&gt;銀行を運営するのはとても費用がかかるのよ。だからあなたの口座からそれなりの量のサービス料を引かせてもらったというわけ。&lt;page&gt;もちろん違法なことなんかじゃないわ。これも銀行の仕組みの一環なのよ…アハハ…&lt;page&gt;でも…その…わざわざ訪ねてきてくれてありがとう。もう少ししたらお湯からあがるから、ちょっと待ってもらえる？　そしたらあなたも温泉につかるといいわ。</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">…わ、わたしは、しばらくここで休もうかしら。そ、そうよ、それがいいわね…</entry>
+<entry name="BANKER_ACCT_DECLINE">わかるわよ。せっかく集めたジオと別れるのはつらいものね。もし気が変わったら教えてちょうだい。</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">ちょっと待って、残念だけどあなたは口座を作るのに必要なジオを持っていないみたいね。ジオが100集まったら戻ってきて。そうしたら口座を作ってあげるわ。</entry>
+<entry name="BANKER_WITHDRAW">ご利用ありがとう。いっぺんに使わないように気をつけるのよ！</entry>
+<entry name="BANKER_SPA_REPEAT">…お、怒らないでね。ね？</entry>
+<entry name="BANKER_DREAM">…今度はいつあのすばらしい温泉に行こうかしら？　あのお湯は緊張をほぐすのにとってもいいのよね…</entry>
+</entries>

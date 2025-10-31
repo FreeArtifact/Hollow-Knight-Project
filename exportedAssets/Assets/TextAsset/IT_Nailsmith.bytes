@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">Mi hai portato un altro aculeo da potenziare? Posalo lì a terra e torna più tardi, se respiri ancora.</entry>
+<entry name="NAILSMITH_DECLINE">Non t’interessa? Come vuoi.</entry>
+<entry name="ART_DREAM">...Una vita intera passata a lavorare da solo... È molto più gradevole qui...</entry>
+<entry name="MODELLING">Stiamo creando una serie completa dei Cavalieri del Reame. All’epoca quasi non gli prestavo attenzione, ma Sheo si ricorda benissimo di ognuno di loro.&lt;page&gt;È così rigenerante. Niente a che vedere con la grossolana forgiatura di aculei. Adoro dedicarmi ai dettagli complessi.</entry>
+<entry name="NAILSMITH_OFFER">Posso riforgiare il tuo aculeo, se vuoi. Questo renderà la lama molto più letale.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Ecco fatto. Ho finito di riforgiare la tua arma.&lt;page&gt;Ho dato al tuo aculeo una forma a spirale. È stato un lavoro molto delicato. Ora è molto, molto più forte di prima.&lt;page&gt;Ora vai. Fatti strada a suon di fendenti.</entry>
+<entry name="NAILSMITH_GREET">Mmmh? Oh, sei tornato.</entry>
+<entry name="NAILSMITH_COMPLETE_1">Ecco. Ho finito di riforgiare la tua arma.&lt;page&gt;Ho affilato la punta del tuo aculeo. Ora è molto più forte di prima.&lt;page&gt;Va’ fuori e prova la sua forza contro i tuoi nemici.</entry>
+<entry name="PAINTED_REPEAT">Chi avrebbe mai detto che avrei incontrato una tale anima ispiratrice in mezzo alle tenebre di Nidosacro?</entry>
+<entry name="NAILSMITH_COMPLETE_4">È fatta. Ho riforgiato la tua arma completamente.&lt;page&gt;Il tuo aculeo ora è molto più forte di un tempo. È al massimo della sua potenza.&lt;page&gt;Solo nella tua arma ho trovato un simile potenziale. Posso finalmente ammirare la magnificenza di un Aculeo Puro.&lt;page&gt;Se penso che questo momento è giunto così presto...&lt;page&gt;...Io... Devo uscire a prendere una boccata d’aria...</entry>
+<entry name="NAILSMITH_COMPLETE_2">Ecco. Ho finito di riforgiare la tua arma.&lt;page&gt;Ho aggiunto una scanalatura sul tuo aculeo. Migliorerà la capacità di taglio. Ora è molto più forte di prima.&lt;page&gt;Va’ fuori e prova la sua lama contro i tuoi nemici.</entry>
+<entry name="NAILSMITH_REGREET">Mmmh? Sei ancora qui. Hai bisogno d’altro?</entry>
+<entry name="NAILSMITH_ACCEPT">Come desideri. Mi metto subito all’opera.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">Non esitare. Ti supplico. Finiscimi! Voglio poter assaporare la punta squisita di questa lama.</entry>
+<entry name="ART_MEET">Mmmh? Oh, salute a te, viaggiatore. È strano incontrarti nuovamente in un mondo tanto vasto!&lt;page&gt;Devo ringraziarti per non avermi ucciso quando te l’ho chiesto. All’inizio ero irritato, ma ho avuto del tempo per riflettere e ho capito che la tua è stata una decisione saggia.&lt;page&gt;La vita non è fatta solo di armi e metalli. Sono partito per esplorare il mondo, e presto sono giunto qui.&lt;page&gt;Sheo è un maestro in molte arti e mi ha promesso di insegnarmi quello che sa. Penso che sarò molto felice qui.</entry>
+<entry name="NAILSMITH_SIGN"></entry>
+<entry name="MODELLING_REPEAT">È favoloso. Non avrei mai pensato che i miei artigli fossero in grado di confezionare un simile capolavoro.</entry>
+<entry name="NAILSMITH_NEED_ORE1">Se mi porterai un pezzo di Minerale Terreo, potrò forgiare il tuo aculeo per renderlo più forte.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Se mi porterai tre pezzi di Minerale Terreo, potrò forgiare il tuo aculeo per renderlo più forte.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Se mi porterai due pezzi di Minerale Terreo, potrò forgiare il tuo aculeo per renderlo più forte.</entry>
+<entry name="NAILSMITH_KILL">Con la forgiatura di un Aculeo Puro, l’opera più importante di tutta una vita è giunta al termine. Il solo desiderio che mi rimane è vedere e sentire l’aculeo mentre colpisce il bersaglio!&lt;page&gt;Ti supplico, colpiscimi. Nell’ultimo istante della mia vita, voglio poter assaporare la punta squisita di questa lama.&lt;page&gt;Dopo tutto questo tempo, tutto questo lavoro... credo di essermelo meritato.</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">Ah, non hai abbastanza Geo? Torna a trovarmi quando ne avrai a sufficienza.</entry>
+<entry name="NAILSMITH_MEET_3">Cerchi un Forgiatore d’Aculei? Beh, l’hai appena trovato. Non sono un gran chiacchierone, ma se hai bisogno di riparare un aculeo, hai appena incontrato l’insetto giusto.&lt;page&gt;Il tuo aculeo è in uno stato pietoso. È evidente che non è uno dei miei. Però, tutto può essere perfezionato con il lavoro e l’abilità, perfino questa lama rovinata.</entry>
+<entry name="NAILSMITH_OFFER_ORE">Vedo che possiedi del Minerale Terreo. È un metallo raro, di qualità superiore. Dammi quel minerale e un po’ di Geo per il mio lavoro, e io riforgerò il tuo aculeo per renderlo più potente.</entry>
+<entry name="PAINTED">Temo di non poter parlare a lungo con te. Se mi muovo troppo, il capolavoro di Sheo si rovinerà, e io non vorrei proprio dargli un dispiacere.&lt;page&gt;Anche se ha una figura imponente, in realtà è un tipo molto sensibile.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">Ho portato a termine il lavoro della mia vita... Cos’altro mi resta...?</entry>
+<entry name="NAILSMITH_MEET_2">Mmmh?&lt;page&gt;Oh. Ti ho preso per qualcun altro.</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">...Forgiare l’aculeo perfetto...</entry>
+</entries>

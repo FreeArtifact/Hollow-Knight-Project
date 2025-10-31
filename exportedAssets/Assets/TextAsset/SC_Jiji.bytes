@@ -1,0 +1,36 @@
+<entries>
+<entry name="SHADE_OFFER">如果你和我分享你美味的食物，我可以把你的遗憾还给你。</entry>
+<entry name="ABYSS">是的，我可以看到你留下的遗憾。虽然很微弱…一个暗斑深埋在这个世界之下，被黑暗包围着。几乎一部分...</entry>
+<entry name="KINGS_PASS">是的，我可以看到你留下的遗憾。在这个王国的入口处附近，有一个暗斑。</entry>
+<entry name="HIVE">是的，我可以看到你留下的遗憾。一个暗斑，在远离这里的一个蜂巢里，被金色的灯光包围着。</entry>
+<entry name="SHAMAN_TEMPLE">是的，我可以看到你留下的遗憾。在先祖坟堆上（一个奇怪的崇拜场所）…有一个暗斑。</entry>
+<entry name="SHADE_CHARM">哦…哦！我会给师傅留下深刻的印象…&lt;page&gt;很少有人能够完全安心忍受他们的遗憾，但你似乎已经做到了。&lt;page&gt;要达到这样的境界，必须经历什么样的黑暗？</entry>
+<entry name="FOG_CANYON">是的，我可以看到你留下的遗憾。一个暗斑消失在陌生土地的迷雾里。</entry>
+<entry name="DECLINE">哦？好吧，如果你不愿意和你的遗憾和解，那么我无法帮你。</entry>
+<entry name="OUTSKIRTS">是的，我可以看到你留下的遗憾。一个暗斑在遥远的世界边缘处。</entry>
+<entry name="COLOSSEUM">是的，我可以看到你留下的遗憾。一个被勇士和傻瓜包围的暗斑。</entry>
+<entry name="SHADE_OFFER_INTRO">作为仪式，我可以将你的遗憾还给你，所以你的遗憾可以解决。这是你想要的，不是吗？&lt;page&gt;是的，但是我很饿。也许你愿意给我分一点你的食物？如果你跟我睡了一样久，你就会很有胃口。</entry>
+<entry name="RITUAL_REPEAT">再会！我一吃饭就会想到你。</entry>
+<entry name="MINES">是的，我可以看到你留下的遗憾。一个暗斑几乎被周围闪闪发光的水晶发出的光芒所掩盖。</entry>
+<entry name="NOSHADE_REPEAT">你似乎没有遗憾。你不需要我的服务。再见！</entry>
+<entry name="NO_EGGS_REPEAT">我喜欢的食物…柔软而圆润，它会在你的嘴里愉快地爆开。它散发出的气味...想想都让我兴奋。它真的是世界上最奢侈的事情。 </entry>
+<entry name="WATERWAYS">是的，我可以看到你留下的遗憾。有一个暗斑被管道和自来水包围着。然而，它无法被冲掉…</entry>
+<entry name="CLIFFS">是的，我可以看到你留下的遗憾。在我们之上有一个暗斑，被呼啸的狂风包围着。</entry>
+<entry name="GREEN_PATH">是的，我可以看到你留下的遗憾。一片郁葱的绿色土地上有一个暗斑。</entry>
+<entry name="LOST_SHADE">是的，我可以看到你留下的遗憾。一个暗斑隐藏在我们之下的黑暗之中。</entry>
+<entry name="NO_EGGS">嗯，但是你没有任何食物。至少没有能吸引我的东西。我不能空着肚子表演，所以请带回来一些真正的美味...一些有营养的食物。</entry>
+<entry name="NOSHADE">啊，你似乎没有任何挥之不去的遗憾。你真幸运！你不需要我的服务。</entry>
+<entry name="ROYAL_GARDENS">是的，我可以看到你留下的遗憾。一个暗斑破坏了花园的美。</entry>
+<entry name="DREAM">我一定是睡了很久。这片土地现在更加黑暗，因遗憾的暗斑而显得如此厚重。&lt;page&gt;即使空气也是阴暗的。如果我再次沉睡，这黑暗会在这里蔓延并吞噬我吗？</entry>
+<entry name="DEEPNEST">是的，我可以看到你留下的遗憾。一个暗斑，在这个王国深处巢穴的隧道中几乎看不到。</entry>
+<entry name="CROSSROADS">是的，我可以看到你留下的遗憾。在我们之下有一个暗斑，消失在王国扭曲的道路和高速公路之中。</entry>
+<entry name="MEET1">欢迎你，小小入侵者。我在这里睡了一段时间了...有些时候了吗？&lt;page&gt;啊。是。是。现在你已经走了，唤醒了我。我想这没关系。我甚至可以帮助你。</entry>
+<entry name="MEET2">我是济济，如果你已经找到了进入我房间的方式，那么你一定需要我的帮助。&lt;page&gt;你瞧，有时我们会留些遗憾在世上，就像黑色的污迹一样。&lt;page&gt;如果我们不处理这些遗憾，我们的希望就会开始流失。&lt;page&gt;你有没有后悔的事情，小家伙？让我好好看你一会儿…</entry>
+<entry name="WASTES">是的，我可以看到你留下的遗憾。一个暗斑半隐半现地坐落在奇怪真菌和冒泡的湖泊之间。</entry>
+<entry name="CITY">是的，我可以看到你留下的遗憾。在王国的都城中央有一个暗斑。大雨无法将其洗掉。</entry>
+<entry name="GREET">啊，又见面了！你过得怎么样？你因为遗憾才来找我的吗？让我看看你…</entry>
+<entry name="QUEENS_STATION">是的，我可以看到你留下的遗憾。一个暗斑独自“坐”在女王站里面。</entry>
+<entry name="RESTING_GROUNDS">是的，我可以看到你留下的遗憾。在一个安静的圣地中有一个暗斑。</entry>
+<entry name="RITUAL_BEGIN">嗯...我会非常喜欢这一口美味的。现在，就像承诺的那样，我们将开始仪式。</entry>
+<entry name="RITUAL_COMPLETED">啊，你似乎已经以一种最新颖的方式与你的遗憾讲和了，我敢说这是一种野蛮的时尚。有什么好笑的。暂且告别吧。我一吃饭就会想到你。</entry>
+</entries>

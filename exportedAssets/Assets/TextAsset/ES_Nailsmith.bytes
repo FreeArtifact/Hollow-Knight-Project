@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">¿Me has traído otro aguijón para afilar? Déjalo en el suelo y vuelve más tarde, si todavía respiras.</entry>
+<entry name="NAILSMITH_DECLINE">¿Entonces no te interesa? Como quieras.</entry>
+<entry name="ART_DREAM">Una vida empleada en un trabajo solitario... Esto es mucho mejor...</entry>
+<entry name="MODELLING">Estamos construyendo una serie completa de los caballeros del reino. Apenas les presté atención en su momento, pero Sheo los recuerda con total nitidez.&lt;page&gt;Es tan refrescante. Nada como la cruda práctica del Arte del aguijón. Me encantan los detalles intrincados.</entry>
+<entry name="NAILSMITH_OFFER">Si así lo prefieres, puedo forjar de nuevo tu aguijón. Haré que la hoja sea más mortal.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Aquí tienes. La forja está completa.&lt;page&gt;Lo he modificado y le he dado una forma en espiral. Una tarea harto complicada. Verás que ahora es más fuerte.&lt;page&gt;Debes marchar. Abrirte camino.</entry>
+<entry name="NAILSMITH_GREET">¿Hmm? Has vuelto.</entry>
+<entry name="NAILSMITH_COMPLETE_1">Aquí tienes. La forja está completa.&lt;page&gt;He afilado la hoja de tu aguijón. Verás que es mucho más fuerte que antes.&lt;page&gt;Sal y prueba su fuerza con tus enemigos.</entry>
+<entry name="PAINTED_REPEAT">Quién hubiese pensado que iba a toparme con un alma tan inspiradora en la oscuridad de Hallownest.</entry>
+<entry name="NAILSMITH_COMPLETE_4">¡Ya está! La forja está completa.&lt;page&gt;Tu aguijón es más fuerte que antes. Tan fuerte como puede llegar a ser.&lt;page&gt;Tu arma contiene tanto potencial. Al fin, contemplo la majestuosidad de un Aguijón puro.&lt;page&gt;Y pensar que este momento ha llegado tan pronto...&lt;page&gt;Yo... Debo salir un segundo...</entry>
+<entry name="NAILSMITH_COMPLETE_2">Aquí tienes. La forja está completa.&lt;page&gt;He estilizado tu aguijón. Debe cortar de una forma más eficiente ahora. Verás que es más fuerte que antes.&lt;page&gt;Sal y prueba su hoja con tus enemigos.</entry>
+<entry name="NAILSMITH_REGREET">¿Hmm? Aún estás aquí. ¿Quieres algo más?</entry>
+<entry name="NAILSMITH_ACCEPT">Como desees. Volveré al trabajo entonces.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">No dudes. Te lo suplico. ¡Córtame en dos! Quiero degustar el sabor de esta hoja tan exquisita.</entry>
+<entry name="ART_MEET">¿Hmm? Saludos, viajero. Qué extraña coincidencia el que nos volvamos a ver en un mundo tan vasto como este.&lt;page&gt;Debo darte las gracias por no matarme cuando te lo pedí. Al principio estaba enojado, pero tuve tiempo para pensar y ahora puedo ver la sabiduría que esconde tu decisión.&lt;page&gt;El mundo está hecho de algo más que metales y armas. Salí a explorar y pronto encontré mi camino.&lt;page&gt;Sheo es un maestro de numerosas artes y ha prometido enseñarme lo que pueda. Creo que aquí hallaré la felicidad.</entry>
+<entry name="NAILSMITH_SIGN">No utilizado</entry>
+<entry name="MODELLING_REPEAT">Es maravilloso. Nunca creí que mis garras fueran capaces de tal construcción.</entry>
+<entry name="NAILSMITH_NEED_ORE1">Si me traes un trozo de Mineral Pálido, lo puedo forjar en tu aguijón y este será más fuerte aún.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Si me traes tres trozos de Mineral Pálido, los puedo forjar en tu aguijón y este será más fuerte aún.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Si me traes dos trozos de Mineral Pálido, los puedo forjar en tu aguijón y este será más fuerte aún.</entry>
+<entry name="NAILSMITH_KILL">Con un Aguijón puro forjado, mi trabajo en esta vida ha terminado. El único deseo que me queda es ver y sentir al aguijón golpear.&lt;page&gt;Te lo suplico, córtame en dos. En el colofón de mi vida, quiero degustar el sabor de esta hoja tan exquisita.&lt;page&gt;Después de tanto tiempo, de tanto trabajo duro... ¿acaso no me lo he ganado?</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">¿No tienes el geo? Pásate por aquí cuando tengas suficiente.</entry>
+<entry name="NAILSMITH_MEET_3">¿Buscas un forjaguijones? Pues lo has encontrado. No me gusta mucho estar de cháchara, pero si necesitas reparar un aguijón, has acudido al insecto correcto.&lt;page&gt;Tu propio aguijón está en un estado deplorable. Salta a la vista que no es de los míos. Aun así, se puede mejorar con el esfuerzo y la habilidad necesarios, incluso esa hoja rota.</entry>
+<entry name="NAILSMITH_OFFER_ORE">Veo que tienes algo de Mineral Pálido; un metal extraño y exquisito. Dame el mineral y algo de geo por las molestias y volveré a forjar tu aguijón para hacerlo más fuerte.</entry>
+<entry name="PAINTED">Me temo que no puedo explayarme. Si me muevo demasiado, la obra maestra de Sheo se arruinará y odiaría verlo consternado.&lt;page&gt;A pesar de que pueda parecer un tipo imponente, es bastante delicado.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">El trabajo de mi vida conseguido... ¿Qué más puedo aguardar...?</entry>
+<entry name="NAILSMITH_MEET_2">¿Hmm?&lt;page&gt;Oh. Pensé que eras otro.</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">Forjar el aguijón perfecto...</entry>
+</entries>

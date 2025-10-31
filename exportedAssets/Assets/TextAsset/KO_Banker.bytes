@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">마음이 바뀌었나요? 언제든지 다시 오세요.</entry>
+<entry name="BANKER_FAREWELL">그럼 잘 가요. 조심하세요.</entry>
+<entry name="BANKER_DREAM_SPA">...오오오 안돼... 날 그냥 내버려 둬, 이 오싹한 작은 존재...</entry>
+<entry name="BANKER_DEPOSIT">잘 했어요! 당신의 지오를 안전하게 지켜줄게요. </entry>
+<entry name="BANKER_BALANCE_ZERO">내-내게는 남은 게 아무것도 없어요...아, 그럼 이제 그만 갈 거죠, 네?&lt;page&gt;네-에에, 그게 가장 좋을 것 같아요...</entry>
+<entry name="BANKER_GREET">안녕하세요, 고객님! 어떤 업무를 보실 건가요?</entry>
+<entry name="BANKER_REMEET">계좌 개설에 대해 다시 생각해 봤나요? 지오를 잃어버리는 것은 끔찍한 일이에요.&lt;page&gt;지오가 안전하다는 것을 알고 있으면 크고 위험한 세상에서 훨씬 더 자신감을 가질 수 있을 거예요.</entry>
+<entry name="BANKER_ACCT_OPEN">당신은 똑똑하군요. 다음에 무서운 야수가 당신을 노려보면 당신은 자신의 지오가 내 껍데기, 아니...내 금고 안에 안전하게 있다는 것을 기억해주세요.&lt;page&gt;이제 은행 업무를 시작하죠.</entry>
+<entry name="BANKER_SPA_GREET">어? 오... 당신, 돌아왔군요. 당신이 떠났을 때 그게... 아... 당신을 마지막으로 보는 거라고 생각했는데.&lt;page&gt;그게... 아... 당신의 지오 문제. 당신도 알다시피, 내게도 큰 스트레스였어요. 사실 스트레스가 너무 심해서 나는 은행 업계를 영원히 떠났죠.</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">아직도 관심이 없나요? 당신은 너무 주저하는군요. 대담한 결정을 내리고 그것을 따라요. 그게 바로 지오를 모으는 비결이에요. </entry>
+<entry name="BANKER_MEET">오, 안녕하세요. 막 문을 닫고 가려던 참이었는데 당신이 왔군요. 나는 은행을 운영해요.&lt;page&gt;지오를 잃어버리는 것은 끔찍한 일이죠. 지오를 직접 가지고 다니면 그럴 가능성이 아주 높고요.&lt;page&gt;내 금고가 훨씬 더 안전할 거예요. 은행가로서의 내 일생 동안 나는 지오를 단 하나도 잃어버린 적이 없어요!&lt;page&gt;계좌를 개설하는 게 어때요?</entry>
+<entry name="BANKER_SPA_MEET">오...아하, 안녕하세요. 다시 만났군요. 다시 볼 수 있어 기뻐요.&lt;page&gt;당신이 찾는 것은 지오인가요? 음, 그게, 아아. 슬픈 일이지만...이제 없어요. 전부 썼어요.&lt;page&gt;은행 운영은 비용이 커요. 당신 계좌에 정말 많은 서비스 수수료를 부과해야 했어요.&lt;page&gt;물론 전부 합법적으로요. 은행 일이 이렇죠...아하하...하.&lt;page&gt;하지만...아아..나를 방문해 줘서 너무 감사하고, 이제 가봐요. 내게 약간의 시간을 준다면 난 곧 떠날 거예요. 그럼 온천은 모두 당신 거예요.</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">...난 그냥 여-여-여기서 잠시 휴식을 취해야겠어요. 네, 그게 가장 좋을 것 같아요.</entry>
+<entry name="BANKER_ACCT_DECLINE">이해해요. 어렵게 얻은 지오를 선뜻 내기는 어렵죠. 마음이 바뀌면 말해요. 난 여기 있으니까.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">오, 잠깐만요. 슬프게도 당신은 계좌를 개설하기에 충분한 지오가 없군요. 100개의 지오를 모으면 내게 바로 돌아와요. 계좌를 개설합시다.</entry>
+<entry name="BANKER_WITHDRAW">인출되었습니다. 아껴 쓰세요!</entry>
+<entry name="BANKER_SPA_REPEAT">...악감정은 없는 거죠, 그렇죠?</entry>
+<entry name="BANKER_DREAM">...다음에 언제 또 그 즐거운 온천에 갈 수 있을까?...내 껍데기의 긴장을 풀기엔 그 물이 최고야...</entry>
+</entries>

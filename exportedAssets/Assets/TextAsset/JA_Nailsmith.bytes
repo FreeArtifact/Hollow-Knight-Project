@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">また鍛える釘を持ってきたのか？　そこに置いて、あとでまた戻ってこい。そのときまで生き延びていたらの話だがな。</entry>
+<entry name="NAILSMITH_DECLINE">興味はないか？　なら好きにするがいい。</entry>
+<entry name="ART_DREAM">…ひとりで働きつづけた日々…それに比べれば今はずっといい…</entry>
+<entry name="MODELLING">わしらは王国の騎士の姿を再現しようとしているのだ。彼らが実在していたとき、わしはほとんど関心をはらっていなかったが、シオはそれぞれの姿をしっかりと覚えているようでな。&lt;page&gt;まったく新鮮な感覚だ。釘を極めるための地道な作業とはまるでちがう。この複雑な詳細のすべてが魅力的だ。</entry>
+<entry name="NAILSMITH_OFFER">おまえが望むなら、その釘を鍛えてやる。今よりずっと切れ味が増すはずだ。</entry>
+<entry name="NAILSMITH_COMPLETE_3">ほら、鍛え直してやったぞ。&lt;page&gt;釘にらせん状の切れ込みを入れた。簡単な作業ではなかったが、これによって前よりもずっとよく切れるはずだ。&lt;page&gt;外に出て、その切れ味を試してみろ。</entry>
+<entry name="NAILSMITH_GREET">んん？　ああ、戻ってきたのか。</entry>
+<entry name="NAILSMITH_COMPLETE_1">ほら、鍛え直してやったぞ。&lt;page&gt;刃の部分を研いでおいた。前よりもずっとよく切れるはずだ。&lt;page&gt;外に出て、その切れ味を試してみろ。</entry>
+<entry name="PAINTED_REPEAT">この暗闇につつまれたハロウネストにおいて、まさかこのような魅力をもった者とめぐりあえるとはな。</entry>
+<entry name="NAILSMITH_COMPLETE_4">ほら、鍛え直してやったぞ。&lt;page&gt;前よりもずっとよく切れるはずだ。これ以上の切れ味は実現できぬだろう。&lt;page&gt;これほど大きな可能性を秘めた釘は初めてだった。おかげでもっとも純粋な釘の姿を目の当たりにすることができたわい。&lt;page&gt;まさかこんなに早くこの瞬間がおとずれるとはな…&lt;page&gt;少し…外の空気でも吸ってくるかの…</entry>
+<entry name="NAILSMITH_COMPLETE_2">ほら、鍛え直してやったぞ。&lt;page&gt;釘に溝を追加しておいた。前よりもずっとよく切れるはずだ。&lt;page&gt;外に出て、その切れ味を試してみろ。</entry>
+<entry name="NAILSMITH_REGREET">んん？　まだいたのか。ほかにもなにか用があるのか？</entry>
+<entry name="NAILSMITH_ACCEPT">よし、ならば作業にとりかかろう。</entry>
+<entry name="NAILSMITH_KILL_REPEAT">頼む、ためらわずにわしを切ってくれ！　その釘のすばらしい切れ味を味わいたいのだ。</entry>
+<entry name="ART_MEET">ん？　おお、おまえか。この広い世界で、再びめぐりあうとは奇遇なことだ。&lt;page&gt;わしを殺さないでくれたことに感謝する。最初は不満に感じたが、しばし考えたのちに、おまえの決断が聡明だったことをわしは理解した。&lt;page&gt;この世界を構成するのは金属と武器だけではない。わしは旅に出て、すぐにこの場所を見つけた。&lt;page&gt;シオは様々な芸術を極めた者であり、わしにもその手ほどきをしてくれるといった。わしはこの状況に満足している。</entry>
+<entry name="NAILSMITH_SIGN">Unused</entry>
+<entry name="MODELLING_REPEAT">まったくすばらしい。自分の爪にこのようなものを創造する力があるとは、想像もしなかった。</entry>
+<entry name="NAILSMITH_NEED_ORE1">蒼白の鉱石を持ってくれば、その釘をさらに強くしてやろう。</entry>
+<entry name="NAILSMITH_NEED_ORE3">蒼白の鉱石を3個持ってくれば、その釘をさらに強くしてやろう。</entry>
+<entry name="NAILSMITH_NEED_ORE2">蒼白の鉱石を2個持ってくれば、その釘をさらに強くしてやろう。</entry>
+<entry name="NAILSMITH_KILL">その釘が完成したことで、わしは生涯の仕事をなしとげた気分だ。あとはその真実を切り裂く切れ味を体感することさえできれば、思い残すことはない。&lt;page&gt;頼む、そいつでわしを切ってくれ。この生の最後の瞬間として、その切れ味を味わいたいのだ。&lt;page&gt;わしは今までずっと、こいつに身をささげてきた… それぐらいのことは許されてもよいだろう？</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">ジオが足りないのか。ならまた来るがいい。</entry>
+<entry name="NAILSMITH_MEET_3">釘鍛冶を探しているのか？　ならわしがそうだ。しゃべるのは不得意だが、釘の修理をしたいのであればそいつはわしの専門分野だ。&lt;page&gt;おまえの釘は大分痛んでいるようだな。わしが鍛造したものでないことは確かだ。だが十分な技量と努力を惜しまぬ姿勢があれば、そのように痛んだ釘ですら、再び輝きを取り戻す。</entry>
+<entry name="NAILSMITH_OFFER_ORE">“蒼白の鉱石”を手に入れたようだな。そいつは稀少で上等な金属だ。そいつと工賃としてのジオをくれれば、おまえの釘をさらに強くしてやろう。</entry>
+<entry name="PAINTED">悪いがあまり長くは話せんのだ。わしが動きすぎると、シオの傑作が台無しになってしまうのでな。わしは彼が動揺する様は見たくない。&lt;page&gt;見た目は威圧的かもしれんが、シオはああ見えてなかなか繊細なのだ。</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">わしの生涯の仕事はなされた…ほかになにが残っている…？</entry>
+<entry name="NAILSMITH_MEET_2">んん？&lt;page&gt;ウム、てっきり知り合いが来たのかと思ったが…</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">…完璧な釘を作るために…</entry>
+</entries>

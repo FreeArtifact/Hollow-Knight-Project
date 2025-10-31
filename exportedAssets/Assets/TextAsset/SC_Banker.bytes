@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_SPA_REPEAT">…别，别生气，好吗？</entry>
+<entry name="BANKER_GREET">亲，你好！想要做些交易？</entry>
+<entry name="BANKER_FAREWELL">再见。注意安全。</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">噢，等一下。很可惜，你的杰奥币还不够开一个帐户。你收集到 100 杰奥币后再回来吧，到时我们一定会为你开户。</entry>
+<entry name="BANKER_DEPOSIT">干得好，亲！我会好好保管你的杰奥币的。 </entry>
+<entry name="BANKER_DREAM_SPA">…噢，不…饶了我吧…</entry>
+<entry name="BANKER_ACCT_OPEN">你是聪明人。下次，万一你被可怕的野兽逮住，你会庆幸把钱放在我口袋…呃，我的金库里。&lt;page&gt;我们开始交易吧。</entry>
+<entry name="BANKER_DREAM">…什么时候才能做个 SPA？…温泉的水可以洗尽我的烦恼…</entry>
+<entry name="BANKER_SPA_MEET">噢…啊哈，又见面了，亲。在这里遇见你，真巧。&lt;page&gt;你是来拿杰奥币的吗？这个嘛，你看，啊哈哈哈。不见了。全花完了。&lt;page&gt;开银行的成本很高，所以我要收你一大笔服务费。&lt;page&gt;当然，这是完全合法的。只是银行交易中的一小部分…啊哈哈哈…哈。&lt;page&gt;但是…呃…谢谢你大老远跑来看我。如果你不介意的话，请等我一下，我马上就好。然后，你就可以自己一个人享受 SPA 了。</entry>
+<entry name="BANKER_REMEET">你想过开户吗？丢失杰奥币是一件很可怕的事情。&lt;page&gt;外面的世界这么危险，把钱放在我这里，你绝对可以放心。</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">还是不感兴趣？你考虑得太多了。做出大胆的决定，杰奥币可会变多喔。 </entry>
+<entry name="BANKER_MEET">亲，你好。你还不来，我就要关门跑路了。如果你有兴趣，我可以提供银行服务。&lt;page&gt;丢失杰奥币是一件很可怕的事情，如果随身携带，更加让人担心。&lt;page&gt;我的金库安全得多。我做了一辈子银行家，从没有丢失过一块杰奥币！&lt;page&gt;也许你想开个户？</entry>
+<entry name="BANKER_WITHDRAW">谢谢取款。别一次挥霍完！</entry>
+<entry name="BANKER_CANCEL">改变主意了吗？欢迎随时回来。</entry>
+<entry name="BANKER_SPA_GREET">哇？噢…你回来了。我只是在想，在你离开的时候，以为我们…再也不会见。&lt;page&gt;现在…你的杰奥币…出了点问题。你知道的，我也有很大的压力。实际上，因为压力太大，我不干银行了。</entry>
+<entry name="BANKER_BALANCE_ZERO">我——我一分钱也没有——我，啊，我以为，噢，你也许要上路了？&lt;page&gt;是的是的，我想最好…</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">…也许我最好在这里休息一会儿。是的，这是最好的。</entry>
+<entry name="BANKER_ACCT_DECLINE">我明白。与辛苦赚来的杰奥币分开很困难。如果你改变主意，记得回来找我。</entry>
+</entries>
