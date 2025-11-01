@@ -1,0 +1,6 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = hollowKnight
+hollowKnight = element hollowKnight {character+}
+#store circumstances of each dialogue instance
+character = element character {}
