@@ -22,8 +22,18 @@ body {
 
 .splash {
     display: flex;
+    flex-direction: column;
     width: 100vw;
     height: 90vh;
     place-content: center;
     align-items: center;
+}
+
+.splash h1 {
+    margin: 0.25rem;
+}
+
+.splash p {
+    margin: 0.25rem;
+    width: 30vw;
 }
