@@ -144,7 +144,7 @@
             on.</entry>
     </entries>
     <entries name="Banker">
-        <entry name="BANKER_CANCEL" condition="cancel">Changed your mind? Well, come back any time.</entry>
+        <entry name="BANKER_CANCEL">Changed your mind? Well, come back any time.</entry>
         <entry name="BANKER_FAREWELL">Goodbye then. Stay safe.</entry>
         <entry name="BANKER_DREAM_SPA">...Oohh no... Leave me be, creepy little thing...</entry>
         <entry name="BANKER_DEPOSIT">Well done dearie! I&#39;ll keep your Geo safe. </entry>
