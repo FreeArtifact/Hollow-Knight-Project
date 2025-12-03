@@ -32,6 +32,8 @@ body {
     }
 /* --- */
 
+
+
 /* Splash section */
 .entry-content-index {
     display: flex;
@@ -91,7 +93,16 @@ body {
 }
 /* --- */
 
+
+
 /* Bugs */
+.character-list {
+    display: flex;
+    gap: 20vw;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
 .character-list a{
     text-decoration: none;
     color: white;
@@ -102,5 +113,27 @@ body {
     text-shadow: 0 0 20px #ffffff;
 }
 
-
 /* ---- */
+
+
+
+/* Bugs' Individual Pages */
+.character-one-content h2 {
+    font-family: TrajanProBold;
+    font-size: 0.9rem;
+    text-shadow: 0 0 20px #17f8e5;
+}
+
+.character-one-content p {
+    margin-bottom: 2rem;
+}
+
+.character-one-page h1 {
+    font-family: TrajanProBold;
+    margin: 2rem 1.5rem;
+    text-decoration: underline;
+}
+
+.character-one-page ul {
+    list-style-type: none;
+}

@@ -21,6 +21,7 @@
                     <div class="navbar">
                         <a href="../index.html">Home</a>
                         <a href="bugTest.html">Bugs</a>
+                        <a href="../research.html">Research</a>
                         <a href="../about.html">About</a>
                         <a href="../sources.html">Sources</a>
                     </div>
@@ -39,8 +40,8 @@
     
     <xsl:template match="entry">
         <li>
-            <h2><xsl:value-of select="@condition|@info"/></h2>
-            <xsl:apply-templates/>
+            <h2><xsl:value-of select="@condition|@info"/>:</h2>
+            <p><xsl:apply-templates/></p>
         </li>
     </xsl:template>
     
@@ -51,7 +52,7 @@
         <xsl:result-document href="{@name}.html" method="html">
             <html>
                 <head>
-                    <title><xsl:value-of select="@type"/></title>
+                    <title><xsl:value-of select="@name"/></title>
                     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
                     <link rel="stylesheet" type="text/css" href="../css/style.css"/>
                 </head>
@@ -64,9 +65,9 @@
                             <a href="../sources.html">Sources</a>
                         </div>
                     </header>
-                    <main>
+                    <main class="character-one-page">
                         <h1><xsl:value-of select="@name"/></h1>
-                        <div class="character-content">
+                        <div class="character-one-content">
                             <ul>
                                 <xsl:apply-templates select="descendant::entry"/>
                             </ul>
