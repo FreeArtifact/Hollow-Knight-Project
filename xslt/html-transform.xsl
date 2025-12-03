@@ -17,7 +17,6 @@
                 <h1>The Inhabitants of Hollownest</h1>
                 <ul>
                     <xsl:apply-templates select="descendant::character/attribute::name"/>
-                    <!--<li><xsl:value-of select="descendant::character/@name"/></li>-->
                 </ul>
             </body>
         </html>

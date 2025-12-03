@@ -4,8 +4,12 @@
     xmlns="http://purl.oclc.org/dsdl/schematron">
     
     <pattern>
-        <rule context="character">
-            <assert test="not(entry[. = following-sibling::entry])">Duplicate entry found!</assert>
+        <rule context="character[@name='Dreamers']/entry">
+            <let name="currentValue" value="./text()"/>
+            <let name="precedingValues" value="preceding-sibling::entry/text()"/>
+            <report test="$currentValue = $precedingValues">Duplicate entries found! <value-of select="$precedingValues[.=$currentValue]"/></report>
+            
+<!--            <assert test="not(entry[. = following-sibling::entry])">Duplicate entry found!</assert>-->
         </rule>
     </pattern>
 </schema>
