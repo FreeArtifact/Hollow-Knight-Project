@@ -6,7 +6,7 @@
 body {
     margin: 0;
     font-family: 'Cormorant Garamond', serif;
-    background-color: #050811;
+    background-color: #000617;
     color: white;
     z-index: -5;
 }
@@ -35,10 +35,12 @@ body {
 
 
 /* Splash section */
+
+
 .entry-content-index {
     display: flex;
     flex-direction: row;
-    height: 100vh;
+    height: 92vh;
 }
 
 .entry-content-index img {
@@ -60,7 +62,7 @@ body {
 .splash h1 {
     margin: 0.25rem;
     margin-right: 12vw;
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }
 
 
@@ -96,22 +98,98 @@ body {
 
 
 /* Bugs */
+.bug-title{
+    text-align: center;
+    font-size: 2rem;
+    font-family: trajanprobold;
+    text-shadow: 0 0 10px white;
+    margin: 5rem;
+}
+
 .character-list {
     display: flex;
-    gap: 20vw;
+    column-gap: 2vw;
+    row-gap: 2rem;
     flex-wrap: wrap;
     list-style-type: none;
 }
 
-.character-list a{
-    text-decoration: none;
-    color: white;
-    font-family: TrajanProBold;
+.character-list li {
+    width: 20rem;
+    height: 12rem;
+    /* background-image: url(../images/static-cornifer.png); */
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    & a {
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+        font-size: 1.5rem;
+        color: white;
+        font-family: TrajanProBold;
+    }
 }
 
 .character-list a:hover{
     text-shadow: 0 0 20px #ffffff;
 }
+
+.character-list li:has(a:hover) {
+    /* background-image: url(../images/cornifer.webp); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-position: 50vh; */
+}
+.banker-li {background-image: url();}
+.cp2-li {background-image: url();}
+.cp3-li {background-image: url();}
+.charm_slug-li {background-image: url(../images/static-charm_slug.png);}
+.cornifer-li {background-image: url(../images/static-cornifer.png);}
+.dream_witch-li {background-image: url();}
+.dreamers-li {background-image: url();}
+.elderbug-li {background-image: url();}
+.enemy_dreams-li {background-image: url();}
+.general-li {background-image: url();}
+.ghosts-li {background-image: url();}
+.hornet-li {background-image: url();}
+.hunter-li {background-image: url();}
+.iselda-li {background-image: url();}
+.jiji-li {background-image: url();}
+.minor_npc-li {background-image: url();}
+.nailmasters-li {background-image: url();}
+.nailsmith-li {background-image: url();}
+.quirrel-li {background-image: url();}
+.relic_dealer-li {background-image: url();}
+.shaman-li {background-image: url();}
+.sly-li {background-image: url();}
+.stag-li {background-image: url();}
+.zote-li {background-image: url();}
+
+.banker-li:has(a:hover){background-image: url();}
+.cp2-li:has(a:hover){background-image: url();}
+.cp3-li:has(a:hover){background-image: url();}
+.charm_slug-li:has(a:hover){background-image: url(../images/charm_slug.webp);}
+.cornifer-li:has(a:hover) {background-image: url(../images/cornifer.webp);}
+.dream_witch-li:has(a:hover){background-image: url();}
+.dreamers-li:has(a:hover){background-image: url();}
+.elderbug-li:has(a:hover){background-image: url();}
+.enemy_dreams-li:has(a:hover){background-image: url();}
+.general-li:has(a:hover){background-image: url();}
+.ghosts-li:has(a:hover){background-image: url();}
+.hornet-li:has(a:hover){background-image: url();}
+.hunter-li:has(a:hover){background-image: url();}
+.iselda-li:has(a:hover){background-image: url();}
+.jiji-li:has(a:hover){background-image: url();}
+.minor_npc-li:has(a:hover){background-image: url();}
+.nailmasters-li:has(a:hover){background-image: url();}
+.nailsmith-li:has(a:hover){background-image: url();}
+.quirrel-li:has(a:hover){background-image: url();}
+.relic_dealer-li:has(a:hover){background-image: url();}
+.shaman-li:has(a:hover){background-image: url();}
+.sly-li:has(a:hover){background-image: url();}
+.stag-li:has(a:hover){background-image: url();}
+.zote-li:has(a:hover){background-image: url();}
 
 /* ---- */
 

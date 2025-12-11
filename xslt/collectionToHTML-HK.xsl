@@ -27,7 +27,7 @@
                     </div>
                 </header>
                 <main>
-                <h1>Welcome to Hallownest</h1>
+                <h1 class="bug-title">The Bugs of Hallownest</h1>
                 <section class="content">
                     <ul class="character-list">
                         <xsl:apply-templates select="descendant::character"/>
@@ -46,8 +46,8 @@
     </xsl:template>
     
     <xsl:template match="character">
-            <li>
-                <a href="{@name}.html"><xsl:value-of select="@name"/></a>
+            <li class="{lower-case(@name)}-li">
+                <a href="{@name}.html"><xsl:value-of select="replace(@name, '_', ' ')"/></a>
             </li>
         <xsl:result-document href="{@name}.html" method="html">
             <html>
