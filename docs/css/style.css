@@ -51,7 +51,7 @@ body {
 
 .entry-content-index img {
     width: 20vw;
-    height: fit-content;
+    /* height: fit-content; */
     align-self: center;
     margin-left: 15vw;
 }
