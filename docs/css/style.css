@@ -42,7 +42,6 @@ body {
 
 /* Splash section */
 
-
 .entry-content-index {
     display: flex;
     flex-direction: row;
@@ -68,6 +67,11 @@ body {
         transform: scale(2);
         margin-right: 26.5vw;
     }
+}
+
+.bench-sign {
+    position: absolute;
+    transform: scale(0.25) translateY(150vh) translateX(-75vw);
 }
 
 .splash h1 {
