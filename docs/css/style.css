@@ -258,6 +258,37 @@ body {
 }
 
 /* About Page */
-.about-main {
-    margin: 1rem;
+body.about-main {
+    margin: 0rem;
+    padding: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.navbar-about {
+    position: absolute;
+    top: 2.2rem;
+}
+
+.btn {
+    color: white;
+    text-shadow: 0 0 8px white;
+}
+
+.btn-dark {
+    color: white;
+    text-shadow: none;
+}
+
+#page-1 {background: #000617;}
+#page-2 {background: rgb(48, 39, 108);}
+#page-3 {background: rgb(78, 1, 1);}
+#page-4 {background: rgb(1, 71, 97);}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
 }

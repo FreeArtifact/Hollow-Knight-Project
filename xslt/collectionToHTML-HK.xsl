@@ -61,7 +61,7 @@
                         <div class="navbar">
                             <a href="../index.html">Home</a>
                             <a href="bugTest.html">Bugs</a>
-                            <a href="../about.html">About</a>
+                            <a href="../about#page-1.html">About</a>
                             <a href="../sources.html">Sources</a>
                         </div>
                     </header>
